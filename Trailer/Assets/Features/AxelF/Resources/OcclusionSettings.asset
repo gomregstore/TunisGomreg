@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: OcclusionSettings
+  m_EditorClassIdentifier: AxelF:AxelF:OcclusionSettings
+  layerMask:
+    serializedVersion: 2
+    m_Bits: 1
+  highPassRange:
+    min: 0
+    max: 1100
+  lowPassRange:
+    min: 4400
+    max: 22000
+  speedOfSound: 340
