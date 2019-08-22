@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: branches
   m_Shader: {fileID: 4800000, guid: 6e4ae4064600d784cac1e41a9e6f2e59, type: 3}
   m_ShaderKeywords: _ALPHATEST_ON _DISABLE_DBUFFER _DOUBLESIDED_ON _MASKMAP _MATERIAL_FEATURE_TRANSMISSION
@@ -303,7 +304,7 @@ Material:
     - _AORemapMin: 0
     - _ATDistance: 1
     - _AlbedoAffectEmissive: 0
-    - _AlphaCutoff: 0.35
+    - _AlphaCutoff: 0.5
     - _AlphaCutoffEnable: 1
     - _AlphaCutoffPostpass: 0.5
     - _AlphaCutoffPrepass: 0.5
@@ -321,7 +322,7 @@ Material:
     - _CullMode: 0
     - _CullModeForward: 0
     - _CullModeNormalFlip: 1
-    - _Cutoff: 0.35
+    - _Cutoff: 0.5
     - _DebugTreeOcclusion: 0
     - _DepthOffset: 0
     - _DepthOffsetEnable: 0
@@ -404,6 +405,7 @@ Material:
     - _PPDPrimitiveWidth: 1
     - _Parallax: 0.02
     - _PreRefractionPass: 0
+    - _ReceivesSSR: 1
     - _RefractionMode: 0
     - _RefractionModel: 0
     - _RefractionSSRayModel: 0
@@ -429,6 +431,7 @@ Material:
     - _SubsurfaceProfile: 0
     - _SubsurfaceRadius: 1
     - _SupportDBuffer: 0
+    - _SupportDecals: 1
     - _SurfaceType: 0
     - _TexWorldScale: 1
     - _TexWorldScaleEmissive: 1

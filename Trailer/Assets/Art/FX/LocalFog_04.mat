@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: LocalFog_04
   m_Shader: {fileID: 4800000, guid: c4edd00ff2db5b24391a4fcb1762e459, type: 3}
   m_ShaderKeywords: _BLENDMODE_ADD _DOUBLESIDED_ON _SURFACE_TYPE_TRANSPARENT
@@ -17,6 +18,7 @@ Material:
     RenderType: Transparent
   disabledShaderPasses:
   - DistortionVectors
+  - MOTIONVECTORS
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
