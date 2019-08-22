@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: b313cdc1b97178a4cb76c7c01af5dd74
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Car_1_Animation:Animation
+    100002: Car_1_Animation:B_Suspension
+    100004: Car_1_Animation:Biiip
+    100006: Car_1_Animation:Bord1
+    100008: Car_1_Animation:Car
+    100010: Car_1_Animation:Car1
+    100012: Car_1_Animation:Car_body_grp
+    100014: Car_1_Animation:F_Suspension
+    100016: Car_1_Animation:pCylinder94
+    100018: Car_1_Animation:Steering_wheel
+    100020: Car_1_Animation:Steering_wheel 1
+    100022: Car_1_Animation:Texture2
+    100024: //RootNode
+    100026: Left_Drivingwheel
+    100028: Right_Drivingwheel
+    400000: Car_1_Animation:Animation
+    400002: Car_1_Animation:B_Suspension
+    400004: Car_1_Animation:Biiip
+    400006: Car_1_Animation:Bord1
+    400008: Car_1_Animation:Car
+    400010: Car_1_Animation:Car1
+    400012: Car_1_Animation:Car_body_grp
+    400014: Car_1_Animation:F_Suspension
+    400016: Car_1_Animation:pCylinder94
+    400018: Car_1_Animation:Steering_wheel
+    400020: Car_1_Animation:Steering_wheel 1
+    400022: Car_1_Animation:Texture2
+    400024: //RootNode
+    400026: Left_Drivingwheel
+    400028: Right_Drivingwheel
+    2100000: Car_1_Animation_Bord_text2
+    2100002: Car_1_Animation_Bord_text1
+    2300000: Car_1_Animation:Biiip
+    2300002: Car_1_Animation:pCylinder94
+    2300004: Car_1_Animation:Steering_wheel 1
+    3300000: Car_1_Animation:Biiip
+    3300002: Car_1_Animation:pCylinder94
+    3300004: Car_1_Animation:Steering_wheel 1
+    4300000: Car_1_Animation:Steering_wheel
+    4300002: Car_1_Animation:Biiip
+    4300004: Car_1_Animation:pCylinder94
+    7400000: Drivingwheel
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_1_Animation_Bord_text1
+    second: {fileID: 2100000, guid: 8a65daf9e38b2d84d93f5fee38895ff1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_1_Animation_Bord_text2
+    second: {fileID: 2100000, guid: 58100d81b05cb204c99dcd64ef494dbf, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

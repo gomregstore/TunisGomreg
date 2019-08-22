@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 1094b8a0dffde8f4eb40cc9bd81ba1a1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Car_1_Animation:Animation
+    100002: Car_1_Animation:Car
+    100004: Car_1_Animation:Car1
+    100006: Car_1_Animation:DIsc
+    100008: Car_1_Animation:Disc
+    100010: Car_1_Animation:Disc 1
+    100012: Car_1_Animation:Disc 2
+    100014: Car_1_Animation:etoile
+    100016: Car_1_Animation:etoile 1
+    100018: Car_1_Animation:group84911194
+    100020: Car_1_Animation:group84911194 1
+    100022: Car_1_Animation:group84911195
+    100024: Car_1_Animation:group84911195 1
+    100026: Car_1_Animation:L_B_Tire
+    100028: Car_1_Animation:L_B_Tire_
+    100030: Car_1_Animation:L_F_Tire
+    100032: Car_1_Animation:L_F_Tire_
+    100034: Car_1_Animation:pCylinder74
+    100036: Car_1_Animation:pCylinder74 1
+    100038: Car_1_Animation:pCylinder74 2
+    100040: Car_1_Animation:pCylinder74 3
+    100042: Car_1_Animation:pCylinder75
+    100044: Car_1_Animation:pCylinder75 1
+    100046: Car_1_Animation:pCylinder75 2
+    100048: Car_1_Animation:pCylinder75 3
+    100050: Car_1_Animation:pCylinder76
+    100052: Car_1_Animation:pCylinder76 1
+    100054: Car_1_Animation:pCylinder76 2
+    100056: Car_1_Animation:pCylinder76 3
+    100058: Car_1_Animation:pCylinder77
+    100060: Car_1_Animation:pCylinder77 1
+    100062: Car_1_Animation:pCylinder77 2
+    100064: Car_1_Animation:pCylinder77 3
+    100066: Car_1_Animation:pCylinder78
+    100068: Car_1_Animation:pCylinder78 1
+    100070: Car_1_Animation:pCylinder78 2
+    100072: Car_1_Animation:pCylinder78 3
+    100074: Car_1_Animation:pCylinder80
+    100076: Car_1_Animation:pCylinder80 1
+    100078: Car_1_Animation:pCylinder80 2
+    100080: Car_1_Animation:pCylinder80 3
+    100082: "Car_1_Animation:pCylinder\xE7low"
+    100084: "Car_1_Animation:pCylinder\xE7low 1"
+    100086: Car_1_Animation:pHelix1
+    100088: Car_1_Animation:pHelix1 1
+    100090: Car_1_Animation:pHelix1 2
+    100092: Car_1_Animation:pHelix1 3
+    100094: Car_1_Animation:PolySurface33479_00001____
+    100096: Car_1_Animation:PolySurface33479_00001____ 1
+    100098: Car_1_Animation:PolySurface33479_00001____ 2
+    100100: Car_1_Animation:PolySurface33479_00001____ 3
+    100102: Car_1_Animation:PolySurface33479_00001____4
+    100104: Car_1_Animation:PolySurface33479_00001____4 1
+    100106: Car_1_Animation:PolySurface33479_00001____4 2
+    100108: Car_1_Animation:PolySurface33479_00001____4 3
+    100110: Car_1_Animation:PolySurface33479_00001____5
+    100112: Car_1_Animation:PolySurface33479_00001____5 1
+    100114: Car_1_Animation:PolySurface33479_00001____5 2
+    100116: Car_1_Animation:PolySurface33479_00001____5 3
+    100118: Car_1_Animation:PolySurface33479_00001____6
+    100120: Car_1_Animation:PolySurface33479_00001____6 1
+    100122: Car_1_Animation:PolySurface33479_00001____6 2
+    100124: Car_1_Animation:PolySurface33479_00001____6 3
+    100126: Car_1_Animation:PolySurface33479_00001____7
+    100128: Car_1_Animation:PolySurface33479_00001____7 1
+    100130: Car_1_Animation:PolySurface33479_00001____8
+    100132: Car_1_Animation:PolySurface33479_00001____9
+    100134: Car_1_Animation:pPipe3
+    100136: Car_1_Animation:pPipe3 1
+    100138: Car_1_Animation:pPipe3 2
+    100140: Car_1_Animation:pPipe3 3
+    100142: Car_1_Animation:pSphere1
+    100144: Car_1_Animation:pSphere1 1
+    100146: Car_1_Animation:pSphere1 2
+    100148: Car_1_Animation:pSphere1 3
+    100150: Car_1_Animation:pTorus17
+    100152: Car_1_Animation:pTorus17 1
+    100154: Car_1_Animation:pTorus17 2
+    100156: Car_1_Animation:pTorus17 3
+    100158: Car_1_Animation:R_B_Tire
+    100160: Car_1_Animation:R_B_Tire_
+    100162: Car_1_Animation:R_F_Tire
+    100164: Car_1_Animation:R_F_Tire_
+    100166: Car_1_Animation:ressort
+    100168: Car_1_Animation:ressort 1
+    100170: Car_1_Animation:ressort 2
+    100172: Car_1_Animation:ressort 3
+    100174: Car_1_Animation:whell_Right_top
+    100176: Car_1_Animation:whell_Right_top 1
+    100178: Car_1_Animation:whell_Right_top 2
+    100180: Car_1_Animation:whell_Right_top 3
+    100182: //RootNode
+    400000: Car_1_Animation:Animation
+    400002: Car_1_Animation:Car
+    400004: Car_1_Animation:Car1
+    400006: Car_1_Animation:DIsc
+    400008: Car_1_Animation:Disc
+    400010: Car_1_Animation:Disc 1
+    400012: Car_1_Animation:Disc 2
+    400014: Car_1_Animation:etoile
+    400016: Car_1_Animation:etoile 1
+    400018: Car_1_Animation:group84911194
+    400020: Car_1_Animation:group84911194 1
+    400022: Car_1_Animation:group84911195
+    400024: Car_1_Animation:group84911195 1
+    400026: Car_1_Animation:L_B_Tire
+    400028: Car_1_Animation:L_B_Tire_
+    400030: Car_1_Animation:L_F_Tire
+    400032: Car_1_Animation:L_F_Tire_
+    400034: Car_1_Animation:pCylinder74
+    400036: Car_1_Animation:pCylinder74 1
+    400038: Car_1_Animation:pCylinder74 2
+    400040: Car_1_Animation:pCylinder74 3
+    400042: Car_1_Animation:pCylinder75
+    400044: Car_1_Animation:pCylinder75 1
+    400046: Car_1_Animation:pCylinder75 2
+    400048: Car_1_Animation:pCylinder75 3
+    400050: Car_1_Animation:pCylinder76
+    400052: Car_1_Animation:pCylinder76 1
+    400054: Car_1_Animation:pCylinder76 2
+    400056: Car_1_Animation:pCylinder76 3
+    400058: Car_1_Animation:pCylinder77
+    400060: Car_1_Animation:pCylinder77 1
+    400062: Car_1_Animation:pCylinder77 2
+    400064: Car_1_Animation:pCylinder77 3
+    400066: Car_1_Animation:pCylinder78
+    400068: Car_1_Animation:pCylinder78 1
+    400070: Car_1_Animation:pCylinder78 2
+    400072: Car_1_Animation:pCylinder78 3
+    400074: Car_1_Animation:pCylinder80
+    400076: Car_1_Animation:pCylinder80 1
+    400078: Car_1_Animation:pCylinder80 2
+    400080: Car_1_Animation:pCylinder80 3
+    400082: "Car_1_Animation:pCylinder\xE7low"
+    400084: "Car_1_Animation:pCylinder\xE7low 1"
+    400086: Car_1_Animation:pHelix1
+    400088: Car_1_Animation:pHelix1 1
+    400090: Car_1_Animation:pHelix1 2
+    400092: Car_1_Animation:pHelix1 3
+    400094: Car_1_Animation:PolySurface33479_00001____
+    400096: Car_1_Animation:PolySurface33479_00001____ 1
+    400098: Car_1_Animation:PolySurface33479_00001____ 2
+    400100: Car_1_Animation:PolySurface33479_00001____ 3
+    400102: Car_1_Animation:PolySurface33479_00001____4
+    400104: Car_1_Animation:PolySurface33479_00001____4 1
+    400106: Car_1_Animation:PolySurface33479_00001____4 2
+    400108: Car_1_Animation:PolySurface33479_00001____4 3
+    400110: Car_1_Animation:PolySurface33479_00001____5
+    400112: Car_1_Animation:PolySurface33479_00001____5 1
+    400114: Car_1_Animation:PolySurface33479_00001____5 2
+    400116: Car_1_Animation:PolySurface33479_00001____5 3
+    400118: Car_1_Animation:PolySurface33479_00001____6
+    400120: Car_1_Animation:PolySurface33479_00001____6 1
+    400122: Car_1_Animation:PolySurface33479_00001____6 2
+    400124: Car_1_Animation:PolySurface33479_00001____6 3
+    400126: Car_1_Animation:PolySurface33479_00001____7
+    400128: Car_1_Animation:PolySurface33479_00001____7 1
+    400130: Car_1_Animation:PolySurface33479_00001____8
+    400132: Car_1_Animation:PolySurface33479_00001____9
+    400134: Car_1_Animation:pPipe3
+    400136: Car_1_Animation:pPipe3 1
+    400138: Car_1_Animation:pPipe3 2
+    400140: Car_1_Animation:pPipe3 3
+    400142: Car_1_Animation:pSphere1
+    400144: Car_1_Animation:pSphere1 1
+    400146: Car_1_Animation:pSphere1 2
+    400148: Car_1_Animation:pSphere1 3
+    400150: Car_1_Animation:pTorus17
+    400152: Car_1_Animation:pTorus17 1
+    400154: Car_1_Animation:pTorus17 2
+    400156: Car_1_Animation:pTorus17 3
+    400158: Car_1_Animation:R_B_Tire
+    400160: Car_1_Animation:R_B_Tire_
+    400162: Car_1_Animation:R_F_Tire
+    400164: Car_1_Animation:R_F_Tire_
+    400166: Car_1_Animation:ressort
+    400168: Car_1_Animation:ressort 1
+    400170: Car_1_Animation:ressort 2
+    400172: Car_1_Animation:ressort 3
+    400174: Car_1_Animation:whell_Right_top
+    400176: Car_1_Animation:whell_Right_top 1
+    400178: Car_1_Animation:whell_Right_top 2
+    400180: Car_1_Animation:whell_Right_top 3
+    400182: //RootNode
+    2100000: Car_1_Animation_Wheels
+    2100002: Car_1_Animation_vise_for_machine
+    2300000: Car_1_Animation:etoile
+    2300002: Car_1_Animation:etoile 1
+    2300004: Car_1_Animation:pCylinder74
+    2300006: Car_1_Animation:pCylinder74 1
+    2300008: Car_1_Animation:pCylinder74 2
+    2300010: Car_1_Animation:pCylinder74 3
+    2300012: Car_1_Animation:pCylinder75
+    2300014: Car_1_Animation:pCylinder75 1
+    2300016: Car_1_Animation:pCylinder75 2
+    2300018: Car_1_Animation:pCylinder75 3
+    2300020: Car_1_Animation:pCylinder76
+    2300022: Car_1_Animation:pCylinder76 1
+    2300024: Car_1_Animation:pCylinder76 2
+    2300026: Car_1_Animation:pCylinder76 3
+    2300028: Car_1_Animation:pCylinder77
+    2300030: Car_1_Animation:pCylinder77 1
+    2300032: Car_1_Animation:pCylinder77 2
+    2300034: Car_1_Animation:pCylinder77 3
+    2300036: Car_1_Animation:pCylinder78
+    2300038: Car_1_Animation:pCylinder78 1
+    2300040: Car_1_Animation:pCylinder78 2
+    2300042: Car_1_Animation:pCylinder78 3
+    2300044: Car_1_Animation:pCylinder80
+    2300046: Car_1_Animation:pCylinder80 1
+    2300048: Car_1_Animation:pCylinder80 2
+    2300050: Car_1_Animation:pCylinder80 3
+    2300052: "Car_1_Animation:pCylinder\xE7low"
+    2300054: "Car_1_Animation:pCylinder\xE7low 1"
+    2300056: Car_1_Animation:pHelix1
+    2300058: Car_1_Animation:pHelix1 1
+    2300060: Car_1_Animation:pHelix1 2
+    2300062: Car_1_Animation:pHelix1 3
+    2300064: Car_1_Animation:PolySurface33479_00001____
+    2300066: Car_1_Animation:PolySurface33479_00001____ 1
+    2300068: Car_1_Animation:PolySurface33479_00001____ 2
+    2300070: Car_1_Animation:PolySurface33479_00001____ 3
+    2300072: Car_1_Animation:PolySurface33479_00001____4
+    2300074: Car_1_Animation:PolySurface33479_00001____4 1
+    2300076: Car_1_Animation:PolySurface33479_00001____4 2
+    2300078: Car_1_Animation:PolySurface33479_00001____4 3
+    2300080: Car_1_Animation:PolySurface33479_00001____5
+    2300082: Car_1_Animation:PolySurface33479_00001____5 1
+    2300084: Car_1_Animation:PolySurface33479_00001____5 2
+    2300086: Car_1_Animation:PolySurface33479_00001____5 3
+    2300088: Car_1_Animation:PolySurface33479_00001____6
+    2300090: Car_1_Animation:PolySurface33479_00001____6 1
+    2300092: Car_1_Animation:PolySurface33479_00001____6 2
+    2300094: Car_1_Animation:PolySurface33479_00001____6 3
+    2300096: Car_1_Animation:PolySurface33479_00001____7
+    2300098: Car_1_Animation:PolySurface33479_00001____7 1
+    2300100: Car_1_Animation:PolySurface33479_00001____8
+    2300102: Car_1_Animation:PolySurface33479_00001____9
+    2300104: Car_1_Animation:pPipe3
+    2300106: Car_1_Animation:pPipe3 1
+    2300108: Car_1_Animation:pPipe3 2
+    2300110: Car_1_Animation:pPipe3 3
+    2300112: Car_1_Animation:pSphere1
+    2300114: Car_1_Animation:pSphere1 1
+    2300116: Car_1_Animation:pSphere1 2
+    2300118: Car_1_Animation:pSphere1 3
+    2300120: Car_1_Animation:pTorus17
+    2300122: Car_1_Animation:pTorus17 1
+    2300124: Car_1_Animation:pTorus17 2
+    2300126: Car_1_Animation:pTorus17 3
+    3300000: Car_1_Animation:etoile
+    3300002: Car_1_Animation:etoile 1
+    3300004: Car_1_Animation:pCylinder74
+    3300006: Car_1_Animation:pCylinder74 1
+    3300008: Car_1_Animation:pCylinder74 2
+    3300010: Car_1_Animation:pCylinder74 3
+    3300012: Car_1_Animation:pCylinder75
+    3300014: Car_1_Animation:pCylinder75 1
+    3300016: Car_1_Animation:pCylinder75 2
+    3300018: Car_1_Animation:pCylinder75 3
+    3300020: Car_1_Animation:pCylinder76
+    3300022: Car_1_Animation:pCylinder76 1
+    3300024: Car_1_Animation:pCylinder76 2
+    3300026: Car_1_Animation:pCylinder76 3
+    3300028: Car_1_Animation:pCylinder77
+    3300030: Car_1_Animation:pCylinder77 1
+    3300032: Car_1_Animation:pCylinder77 2
+    3300034: Car_1_Animation:pCylinder77 3
+    3300036: Car_1_Animation:pCylinder78
+    3300038: Car_1_Animation:pCylinder78 1
+    3300040: Car_1_Animation:pCylinder78 2
+    3300042: Car_1_Animation:pCylinder78 3
+    3300044: Car_1_Animation:pCylinder80
+    3300046: Car_1_Animation:pCylinder80 1
+    3300048: Car_1_Animation:pCylinder80 2
+    3300050: Car_1_Animation:pCylinder80 3
+    3300052: "Car_1_Animation:pCylinder\xE7low"
+    3300054: "Car_1_Animation:pCylinder\xE7low 1"
+    3300056: Car_1_Animation:pHelix1
+    3300058: Car_1_Animation:pHelix1 1
+    3300060: Car_1_Animation:pHelix1 2
+    3300062: Car_1_Animation:pHelix1 3
+    3300064: Car_1_Animation:PolySurface33479_00001____
+    3300066: Car_1_Animation:PolySurface33479_00001____ 1
+    3300068: Car_1_Animation:PolySurface33479_00001____ 2
+    3300070: Car_1_Animation:PolySurface33479_00001____ 3
+    3300072: Car_1_Animation:PolySurface33479_00001____4
+    3300074: Car_1_Animation:PolySurface33479_00001____4 1
+    3300076: Car_1_Animation:PolySurface33479_00001____4 2
+    3300078: Car_1_Animation:PolySurface33479_00001____4 3
+    3300080: Car_1_Animation:PolySurface33479_00001____5
+    3300082: Car_1_Animation:PolySurface33479_00001____5 1
+    3300084: Car_1_Animation:PolySurface33479_00001____5 2
+    3300086: Car_1_Animation:PolySurface33479_00001____5 3
+    3300088: Car_1_Animation:PolySurface33479_00001____6
+    3300090: Car_1_Animation:PolySurface33479_00001____6 1
+    3300092: Car_1_Animation:PolySurface33479_00001____6 2
+    3300094: Car_1_Animation:PolySurface33479_00001____6 3
+    3300096: Car_1_Animation:PolySurface33479_00001____7
+    3300098: Car_1_Animation:PolySurface33479_00001____7 1
+    3300100: Car_1_Animation:PolySurface33479_00001____8
+    3300102: Car_1_Animation:PolySurface33479_00001____9
+    3300104: Car_1_Animation:pPipe3
+    3300106: Car_1_Animation:pPipe3 1
+    3300108: Car_1_Animation:pPipe3 2
+    3300110: Car_1_Animation:pPipe3 3
+    3300112: Car_1_Animation:pSphere1
+    3300114: Car_1_Animation:pSphere1 1
+    3300116: Car_1_Animation:pSphere1 2
+    3300118: Car_1_Animation:pSphere1 3
+    3300120: Car_1_Animation:pTorus17
+    3300122: Car_1_Animation:pTorus17 1
+    3300124: Car_1_Animation:pTorus17 2
+    3300126: Car_1_Animation:pTorus17 3
+    4300000: Car_1_Animation:pCylinder80
+    4300002: Car_1_Animation:pHelix1
+    4300004: Car_1_Animation:pCylinder78
+    4300006: Car_1_Animation:pCylinder77
+    4300008: Car_1_Animation:pCylinder76
+    4300010: Car_1_Animation:pCylinder75
+    4300012: Car_1_Animation:pCylinder74
+    4300014: Car_1_Animation:PolySurface33479_00001____8
+    4300016: Car_1_Animation:pSphere1
+    4300018: "Car_1_Animation:pCylinder\xE7low"
+    4300020: Car_1_Animation:pPipe3
+    4300022: Car_1_Animation:pTorus17
+    4300024: Car_1_Animation:PolySurface33479_00001____4
+    4300026: Car_1_Animation:PolySurface33479_00001____
+    4300028: Car_1_Animation:PolySurface33479_00001____5
+    4300030: Car_1_Animation:PolySurface33479_00001____6
+    4300032: Car_1_Animation:pCylinder80
+    4300034: Car_1_Animation:pHelix1
+    4300036: Car_1_Animation:pCylinder78
+    4300038: Car_1_Animation:pCylinder77
+    4300040: Car_1_Animation:pCylinder76
+    4300042: Car_1_Animation:pCylinder75
+    4300044: Car_1_Animation:pCylinder74
+    4300046: Car_1_Animation:PolySurface33479_00001____7
+    4300048: Car_1_Animation:pSphere1
+    4300050: "Car_1_Animation:pCylinder\xE7low"
+    4300052: Car_1_Animation:pPipe3
+    4300054: Car_1_Animation:pTorus17
+    4300056: Car_1_Animation:PolySurface33479_00001____4
+    4300058: Car_1_Animation:PolySurface33479_00001____
+    4300060: Car_1_Animation:PolySurface33479_00001____5
+    4300062: Car_1_Animation:PolySurface33479_00001____6
+    4300064: Car_1_Animation:pCylinder80
+    4300066: Car_1_Animation:pHelix1
+    4300068: Car_1_Animation:pCylinder78
+    4300070: Car_1_Animation:pCylinder77
+    4300072: Car_1_Animation:pCylinder76
+    4300074: Car_1_Animation:pCylinder75
+    4300076: Car_1_Animation:pCylinder74
+    4300078: Car_1_Animation:pSphere1
+    4300080: Car_1_Animation:PolySurface33479_00001____9
+    4300082: Car_1_Animation:pPipe3
+    4300084: Car_1_Animation:etoile
+    4300086: Car_1_Animation:pTorus17
+    4300088: Car_1_Animation:PolySurface33479_00001____4
+    4300090: Car_1_Animation:PolySurface33479_00001____
+    4300092: Car_1_Animation:PolySurface33479_00001____5
+    4300094: Car_1_Animation:PolySurface33479_00001____6
+    4300096: Car_1_Animation:pCylinder80
+    4300098: Car_1_Animation:pHelix1
+    4300100: Car_1_Animation:pCylinder78
+    4300102: Car_1_Animation:pCylinder77
+    4300104: Car_1_Animation:pCylinder76
+    4300106: Car_1_Animation:pCylinder75
+    4300108: Car_1_Animation:pCylinder74
+    4300110: Car_1_Animation:PolySurface33479_00001____7
+    4300112: Car_1_Animation:pSphere1
+    4300114: Car_1_Animation:pTorus17
+    4300116: Car_1_Animation:etoile
+    4300118: Car_1_Animation:pPipe3
+    4300120: Car_1_Animation:PolySurface33479_00001____4
+    4300122: Car_1_Animation:PolySurface33479_00001____
+    4300124: Car_1_Animation:PolySurface33479_00001____5
+    4300126: Car_1_Animation:PolySurface33479_00001____6
+    7400000: Whells
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_1_Animation_Wheels
+    second: {fileID: 2100000, guid: 3bcffbdcb02ff7d4993a575d2521b242, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_1_Animation_vise_for_machine
+    second: {fileID: 2100000, guid: 0e82eb829a825b245a4ad022451673d2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
