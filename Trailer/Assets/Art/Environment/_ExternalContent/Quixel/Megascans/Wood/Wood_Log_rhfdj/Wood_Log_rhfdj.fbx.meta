@@ -1,31 +1,32 @@
 fileFormatVersion: 2
 guid: c3f7daf6efd6b79488989f16e006f075
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
-    100000: Wood_Log_rfixH_LOD0
-    100002: Wood_Log_rfixH_LOD1
-    100004: Wood_Log_rfixH_LOD2
-    100006: Wood_Log_rfixH_LOD3
-    100008: //RootNode
-    100010: collider_Wood_Log_rfixH
-    400000: Wood_Log_rfixH_LOD0
-    400002: Wood_Log_rfixH_LOD1
-    400004: Wood_Log_rfixH_LOD2
-    400006: Wood_Log_rfixH_LOD3
-    400008: //RootNode
-    400010: collider_Wood_Log_rfixH
+    100000: collider_Wood_Log_rfixH
+    100002: Wood_Log_rfixH_LOD0
+    100004: Wood_Log_rfixH_LOD1
+    100006: Wood_Log_rfixH_LOD2
+    100008: Wood_Log_rfixH_LOD3
+    100010: //RootNode
+    400000: collider_Wood_Log_rfixH
+    400002: Wood_Log_rfixH_LOD0
+    400004: Wood_Log_rfixH_LOD1
+    400006: Wood_Log_rfixH_LOD2
+    400008: Wood_Log_rfixH_LOD3
+    400010: //RootNode
     2100000: Aset_wood_log_M_rfixH_mat
-    2300000: Wood_Log_rfixH_LOD0
-    2300002: Wood_Log_rfixH_LOD1
-    2300004: Wood_Log_rfixH_LOD2
-    2300006: Wood_Log_rfixH_LOD3
-    2300008: collider_Wood_Log_rfixH
-    3300000: Wood_Log_rfixH_LOD0
-    3300002: Wood_Log_rfixH_LOD1
-    3300004: Wood_Log_rfixH_LOD2
-    3300006: Wood_Log_rfixH_LOD3
-    3300008: collider_Wood_Log_rfixH
+    2100002: lambert1
+    2300000: collider_Wood_Log_rfixH
+    2300002: Wood_Log_rfixH_LOD0
+    2300004: Wood_Log_rfixH_LOD1
+    2300006: Wood_Log_rfixH_LOD2
+    2300008: Wood_Log_rfixH_LOD3
+    3300000: collider_Wood_Log_rfixH
+    3300002: Wood_Log_rfixH_LOD0
+    3300004: Wood_Log_rfixH_LOD1
+    3300006: Wood_Log_rfixH_LOD2
+    3300008: Wood_Log_rfixH_LOD3
     4300000: Wood_Log_rfixH_LOD0
     4300002: Wood_Log_rfixH_LOD1
     4300004: Wood_Log_rfixH_LOD2
@@ -34,7 +35,7 @@ ModelImporter:
     20500000: //RootNode
   externalObjects: {}
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -70,6 +71,7 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -87,11 +89,16 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -106,7 +113,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1

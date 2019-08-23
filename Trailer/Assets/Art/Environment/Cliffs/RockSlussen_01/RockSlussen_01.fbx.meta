@@ -1,41 +1,35 @@
 fileFormatVersion: 2
 guid: 78870048902a85c4f98956dee72c0376
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     100002: RockSlussen_01_LOD0
     100004: RockSlussen_01_LOD1
-    100006: RockSlussen_01_LOD3
-    100008: RockSlussen_01_LOD4
-    100010: RockSlussen_01_LOD2
+    100006: RockSlussen_01_LOD2
+    100008: RockSlussen_01_LOD3
     400000: //RootNode
     400002: RockSlussen_01_LOD0
     400004: RockSlussen_01_LOD1
-    400006: RockSlussen_01_LOD3
-    400008: RockSlussen_01_LOD4
-    400010: RockSlussen_01_LOD2
+    400006: RockSlussen_01_LOD2
+    400008: RockSlussen_01_LOD3
     2100000: RockSlussen_01_default
     2300000: RockSlussen_01_LOD0
     2300002: RockSlussen_01_LOD1
-    2300004: RockSlussen_01_LOD3
-    2300006: RockSlussen_01_LOD4
-    2300008: RockSlussen_01_LOD2
+    2300004: RockSlussen_01_LOD2
+    2300006: RockSlussen_01_LOD3
     3300000: RockSlussen_01_LOD0
     3300002: RockSlussen_01_LOD1
-    3300004: RockSlussen_01_LOD3
-    3300006: RockSlussen_01_LOD4
-    3300008: RockSlussen_01_LOD2
+    3300004: RockSlussen_01_LOD2
+    3300006: RockSlussen_01_LOD3
     4300000: RockSlussen_01_LOD0
     4300002: RockSlussen_01_LOD1
-    4300004: RockSlussen_01_LOD3
-    4300006: RockSlussen_01_LOD4
-    4300008: RockSlussen_01_LOD2
+    4300004: RockSlussen_01_LOD2
+    4300006: RockSlussen_01_LOD3
     20500000: //RootNode
-    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -71,6 +65,7 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -88,11 +83,16 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -107,7 +107,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1

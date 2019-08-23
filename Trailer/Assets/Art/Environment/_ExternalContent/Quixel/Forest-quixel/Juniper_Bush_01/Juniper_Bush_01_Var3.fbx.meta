@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: d1dfb9c521580eb49995e993f572f916
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     100002: Juniper_Bush_01_Var3_LOD0
@@ -11,7 +11,8 @@ ModelImporter:
     400002: Juniper_Bush_01_Var3_LOD0
     400004: Juniper_Bush_01_Var3_LOD1
     400006: Juniper_Bush_01_Var3_LOD2
-    2100000: Juniper_Bush_01_Mat
+    2100000: Juniper_Bush_01_Trunk_Mat
+    2100002: Juniper_Bush_01_Mat
     2300000: Juniper_Bush_01_Var3_LOD0
     2300002: Juniper_Bush_01_Var3_LOD1
     2300004: Juniper_Bush_01_Var3_LOD2
@@ -22,24 +23,14 @@ ModelImporter:
     4300002: Juniper_Bush_01_Var3_LOD1
     4300004: Juniper_Bush_01_Var3_LOD2
     20500000: //RootNode
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Juniper_Bush_01_Mat
-    second: {fileID: 2100000, guid: 1b491366b4edbca4e966a91fe5c748e6, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Juniper_Bush_01_Trunk_Mat
-    second: {fileID: 2100000, guid: 1b491366b4edbca4e966a91fe5c748e6, type: 2}
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
   animations:
-    legacyGenerateAnimations: 0
+    legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
@@ -69,8 +60,9 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
     importVisibility: 1
-    importBlendShapes: 0
+    importBlendShapes: 1
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
@@ -80,18 +72,23 @@ ModelImporter:
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    indexFormat: 1
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
@@ -105,7 +102,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
@@ -113,6 +109,6 @@ ModelImporter:
   animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
-  userData: model_processed_v01
+  userData: 
   assetBundleName: 
   assetBundleVariant: 

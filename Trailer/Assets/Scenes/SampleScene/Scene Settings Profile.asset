@@ -19,6 +19,7 @@ MonoBehaviour:
   - {fileID: 114252289438536842}
   - {fileID: 114959932171412600}
   - {fileID: 114808765173166248}
+  - {fileID: 114668725193221092}
 --- !u!114 &114157050214461772
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37,7 +38,7 @@ MonoBehaviour:
     m_Value: 1
   fogType:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 2
 --- !u!114 &114252289438536842
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50,9 +51,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2150ee00179b2f4418ea8b21a7e98eea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   colorMode:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 1
   color:
     m_OverrideState: 1
@@ -62,32 +63,32 @@ MonoBehaviour:
     showEyeDropper: 1
   density:
     m_OverrideState: 1
-    m_Value: 0.66
+    m_Value: 0.759
     min: 0
     max: 1
   mipFogMaxMip:
     m_OverrideState: 1
-    m_Value: 0.49
+    m_Value: 0.769
     min: 0
     max: 1
   mipFogNear:
-    m_OverrideState: 0
-    m_Value: 0
+    m_OverrideState: 1
+    m_Value: 23.9
     min: 0
   mipFogFar:
-    m_OverrideState: 0
-    m_Value: 310.2
+    m_OverrideState: 1
+    m_Value: 304.11
     min: 0
   fogDistance:
-    m_OverrideState: 0
-    m_Value: 498.93
+    m_OverrideState: 1
+    m_Value: 466.57
     min: 0
   fogBaseHeight:
-    m_OverrideState: 0
-    m_Value: 26.2
+    m_OverrideState: 1
+    m_Value: 108.6
   fogHeightAttenuation:
-    m_OverrideState: 0
-    m_Value: 0.01
+    m_OverrideState: 1
+    m_Value: 0
     min: 0
     max: 1
 --- !u!114 &114594580054941430
@@ -143,6 +144,76 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 0
     min: 0
+--- !u!114 &114668725193221092
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29b00527f85bb3346a4d2cb710971587, type: 3}
+  m_Name: VolumetricFog
+  m_EditorClassIdentifier: 
+  active: 0
+  colorMode:
+    m_OverrideState: 1
+    m_Value: 1
+  color:
+    m_OverrideState: 0
+    m_Value: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    hdr: 1
+    showAlpha: 0
+    showEyeDropper: 1
+  density:
+    m_OverrideState: 0
+    m_Value: 1
+    min: 0
+    max: 1
+  mipFogMaxMip:
+    m_OverrideState: 1
+    m_Value: 0.5
+    min: 0
+    max: 1
+  mipFogNear:
+    m_OverrideState: 1
+    m_Value: 28.75
+    min: 0
+  mipFogFar:
+    m_OverrideState: 1
+    m_Value: 1000
+    min: 0
+  albedo:
+    m_OverrideState: 1
+    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    hdr: 0
+    showAlpha: 1
+    showEyeDropper: 1
+  meanFreePath:
+    m_OverrideState: 1
+    m_Value: 1000000
+    min: 1
+  baseHeight:
+    m_OverrideState: 1
+    m_Value: 70.6
+  meanHeight:
+    m_OverrideState: 1
+    m_Value: 10
+    min: 1
+  anisotropy:
+    m_OverrideState: 1
+    m_Value: 0.01
+    min: -1
+    max: 1
+  globalLightProbeDimmer:
+    m_OverrideState: 1
+    m_Value: 0.216
+    min: 0
+    max: 1
+  enableDistantFog:
+    m_OverrideState: 1
+    m_Value: 1
 --- !u!114 &114808765173166248
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -155,10 +226,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb673446a9a2dfa408924fe9a56322e0, type: 3}
   m_Name: LinearFog
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   colorMode:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   color:
     m_OverrideState: 1
     m_Value: {r: 0.30651036, g: 0.2467893, b: 0.16915901, a: 1}
@@ -167,7 +238,7 @@ MonoBehaviour:
     showEyeDropper: 1
   density:
     m_OverrideState: 1
-    m_Value: 0.95
+    m_Value: 0.838
     min: 0
     max: 1
   mipFogMaxMip:

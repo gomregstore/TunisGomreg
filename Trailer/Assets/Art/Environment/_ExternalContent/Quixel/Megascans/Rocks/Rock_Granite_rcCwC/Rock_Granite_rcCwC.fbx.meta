@@ -1,64 +1,45 @@
 fileFormatVersion: 2
 guid: 071b49e04a844bc4eb52a1f30e0ac362
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
-    100000: Aset_rock_granite_M_rgAsy_LOD0
-    100002: //RootNode
-    100004: //RootNode
-    100006: Rock_Granite_rcCwC_LOD0
-    100008: Rock_Granite_rcCwC_LOD1
-    100010: Rock_Granite_rcCwC_LOD2
-    100012: Rock_Granite_rcCwC_LOD3
-    100014: Rock_Granite_rcCwC_LOD4
-    400000: Aset_rock_granite_M_rgAsy_LOD0
-    400002: //RootNode
-    400004: //RootNode
-    400006: Rock_Granite_rcCwC_LOD0
-    400008: Rock_Granite_rcCwC_LOD1
-    400010: Rock_Granite_rcCwC_LOD2
-    400012: Rock_Granite_rcCwC_LOD3
-    400014: Rock_Granite_rcCwC_LOD4
-    2300000: Aset_rock_granite_M_rgAsy_LOD0
-    2300002: //RootNode
-    2300004: Rock_Granite_rcCwC_LOD0
-    2300006: Rock_Granite_rcCwC_LOD1
-    2300008: Rock_Granite_rcCwC_LOD2
-    2300010: Rock_Granite_rcCwC_LOD3
-    2300012: Rock_Granite_rcCwC_LOD4
-    3300000: Aset_rock_granite_M_rgAsy_LOD0
-    3300002: //RootNode
-    3300004: Rock_Granite_rcCwC_LOD0
-    3300006: Rock_Granite_rcCwC_LOD1
-    3300008: Rock_Granite_rcCwC_LOD2
-    3300010: Rock_Granite_rcCwC_LOD3
-    3300012: Rock_Granite_rcCwC_LOD4
-    4300000: Game_Master_LOD0
-    4300002: Rock_Granite_rcCwC_LOD0
-    4300004: Rock_Granite_rcCwC_LOD1
-    4300006: Rock_Granite_rcCwC_LOD2
-    4300008: Rock_Granite_rcCwC_LOD3
-    4300010: Rock_Granite_rcCwC_LOD4
+    100000: //RootNode
+    100002: Rock_Granite_rcCwC_LOD0
+    100004: Rock_Granite_rcCwC_LOD1
+    100006: Rock_Granite_rcCwC_LOD2
+    100008: Rock_Granite_rcCwC_LOD3
+    100010: Rock_Granite_rcCwC_LOD4
+    400000: //RootNode
+    400002: Rock_Granite_rcCwC_LOD0
+    400004: Rock_Granite_rcCwC_LOD1
+    400006: Rock_Granite_rcCwC_LOD2
+    400008: Rock_Granite_rcCwC_LOD3
+    400010: Rock_Granite_rcCwC_LOD4
+    2100000: Rock_Granite_rcCwC_mat
+    2300000: Rock_Granite_rcCwC_LOD0
+    2300002: Rock_Granite_rcCwC_LOD1
+    2300004: Rock_Granite_rcCwC_LOD2
+    2300006: Rock_Granite_rcCwC_LOD3
+    2300008: Rock_Granite_rcCwC_LOD4
+    3300000: Rock_Granite_rcCwC_LOD0
+    3300002: Rock_Granite_rcCwC_LOD1
+    3300004: Rock_Granite_rcCwC_LOD2
+    3300006: Rock_Granite_rcCwC_LOD3
+    3300008: Rock_Granite_rcCwC_LOD4
+    4300000: Rock_Granite_rcCwC_LOD0
+    4300002: Rock_Granite_rcCwC_LOD1
+    4300004: Rock_Granite_rcCwC_LOD2
+    4300006: Rock_Granite_rcCwC_LOD3
+    4300008: Rock_Granite_rcCwC_LOD4
     20500000: //RootNode
-    20500002: //RootNode
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: No Name
-    second: {fileID: 2100000, guid: 1b90c97d5a78bd844b3b36ef5ba8ca97, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Rock_Granite_rcCwC_mat
-    second: {fileID: 2100000, guid: d9edb76ea2971f348ae474bca3de67d6, type: 2}
+  externalObjects: {}
   materials:
-    importMaterials: 0
-    materialName: 2
+    importMaterials: 1
+    materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
-    legacyGenerateAnimations: 0
+    legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
@@ -90,8 +71,9 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
     importVisibility: 1
-    importBlendShapes: 0
+    importBlendShapes: 1
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
@@ -107,12 +89,17 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
@@ -126,7 +113,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
@@ -134,6 +120,6 @@ ModelImporter:
   animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
-  userData: model_processed_v01
+  userData: 
   assetBundleName: 
   assetBundleVariant: 

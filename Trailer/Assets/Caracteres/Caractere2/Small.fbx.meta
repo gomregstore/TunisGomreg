@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9841c511954822744894116bfeabe620
+guid: bbdda8ff8223b584d8ca1746fcb542e8
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -633,7 +633,7 @@ ModelImporter:
     4300018: Caractere2:polySurface14
     4300020: Caractere2:polySurface15
     4300022: Caractere2:polySurface16
-    7400000: Small_Idle
+    7400000: Take 001
     9500000: //RootNode
     13700000: Caractere2:Body6
     13700002: Caractere2:Eyebrow_
@@ -643,11 +643,6 @@ ModelImporter:
     13700010: Caractere2:Tongue 1
     13700012: Caractere2:Upper_Teath_
   externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Caractere2_AnimationV2Final_Animation_lambert2
-    second: {fileID: 2100000, guid: 73b915176f43efe49ac2d47acbaa05ab, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -668,11 +663,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Caractere2_body1
     second: {fileID: 2100000, guid: 1b880bbb358ec334c8b185e42920e3fe, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert1
-    second: {fileID: 2100000, guid: 261b57cfe5692824b9725bdec46fade8, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -699,35 +689,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations:
-    - serializedVersion: 16
-      name: Small_Idle
-      takeName: Take 001
-      firstFrame: 1
-      lastFrame: 60
-      wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      hasAdditiveReferencePose: 0
-      loopTime: 0
-      loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask: []
-      maskType: 3
-      maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
+    clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -759,7 +721,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   importAnimation: 1

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6fed263d48a7b4445a0a76afde01cbc3
+guid: 31dd64f725bf96041878097d6aab91ec
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -817,7 +817,7 @@ ModelImporter:
     4300308: Chain04Shape_MASH1_Instancer_140
     4300310: Chain04Shape_MASH1_Instancer_141
     4300312: Chain04Shape_MASH1_Instancer_142
-    7400000: Take 001motor
+    7400000: Take 001
     9500000: //RootNode
   externalObjects:
   - first:
@@ -829,7 +829,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Car_1_Animation_Fireandplastic1
-    second: {fileID: 2100000, guid: dc52527b82ffc3a48b6c18d85f5d1d60, type: 2}
+    second: {fileID: 2100000, guid: 9652bbebb5704f54caf871d77a045aee, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -861,35 +861,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations:
-    - serializedVersion: 16
-      name: Take 001motor
-      takeName: Take 001
-      firstFrame: 1
-      lastFrame: 120
-      wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      hasAdditiveReferencePose: 0
-      loopTime: 0
-      loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask: []
-      maskType: 3
-      maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
+    clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []

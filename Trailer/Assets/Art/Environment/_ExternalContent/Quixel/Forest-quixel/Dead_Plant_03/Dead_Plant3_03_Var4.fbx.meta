@@ -1,60 +1,16 @@
 fileFormatVersion: 2
 guid: a87cfca116d86bc4eb493525f56bd09a
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Dead_Plant_6_GRP2
-    100004: Dead_Plant_8_GRP5
-    100006: Dead_Plant_9_GRP5
-    100008: DeadPlant3_Var4_LOD0
-    100010: DeadPlant3_Var4_LOD1
-    100012: DeadPlant3_Var4_LOD2
-    100014: LOD0_Dead_Plant_6
-    100016: LOD0_Dead_Plant_8
-    100018: LOD0_Dead_Plant_9
-    100020: LOD1_Dead_Plant_6
-    100022: LOD1_Dead_Plant_8
-    100024: LOD1_Dead_Plant_9
-    100026: LOD2_Dead_Plant_6
-    100028: LOD2_Dead_Plant_8
-    100030: LOD2_Dead_Plant_9
-    100032: Plant_04
-    100034: transform55
-    100036: transform56
-    100038: transform57
-    100040: transform58
-    100042: transform59
-    100044: transform60
-    100046: transform61
-    100048: transform62
-    100050: transform63
+    100002: DeadPlant3_Var4_LOD0
+    100004: DeadPlant3_Var4_LOD1
+    100006: DeadPlant3_Var4_LOD2
     400000: //RootNode
-    400002: Dead_Plant_6_GRP2
-    400004: Dead_Plant_8_GRP5
-    400006: Dead_Plant_9_GRP5
-    400008: DeadPlant3_Var4_LOD0
-    400010: DeadPlant3_Var4_LOD1
-    400012: DeadPlant3_Var4_LOD2
-    400014: LOD0_Dead_Plant_6
-    400016: LOD0_Dead_Plant_8
-    400018: LOD0_Dead_Plant_9
-    400020: LOD1_Dead_Plant_6
-    400022: LOD1_Dead_Plant_8
-    400024: LOD1_Dead_Plant_9
-    400026: LOD2_Dead_Plant_6
-    400028: LOD2_Dead_Plant_8
-    400030: LOD2_Dead_Plant_9
-    400032: Plant_04
-    400034: transform55
-    400036: transform56
-    400038: transform57
-    400040: transform58
-    400042: transform59
-    400044: transform60
-    400046: transform61
-    400048: transform62
-    400050: transform63
+    400002: DeadPlant3_Var4_LOD0
+    400004: DeadPlant3_Var4_LOD1
+    400006: DeadPlant3_Var4_LOD2
     2100000: lambert2
     2300000: DeadPlant3_Var4_LOD0
     2300002: DeadPlant3_Var4_LOD1
@@ -66,19 +22,14 @@ ModelImporter:
     4300002: DeadPlant3_Var4_LOD1
     4300004: DeadPlant3_Var4_LOD2
     20500000: //RootNode
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert2
-    second: {fileID: 2100000, guid: 8012f207862e7884d87f2ea72c10b5c4, type: 2}
+  externalObjects: {}
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
-    legacyGenerateAnimations: 0
+    legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
@@ -108,8 +59,9 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
     importVisibility: 1
-    importBlendShapes: 0
+    importBlendShapes: 1
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
@@ -119,18 +71,23 @@ ModelImporter:
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    indexFormat: 1
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
@@ -144,7 +101,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
@@ -152,6 +108,6 @@ ModelImporter:
   animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
-  userData: model_processed_v01
+  userData: 
   assetBundleName: 
   assetBundleVariant: 
