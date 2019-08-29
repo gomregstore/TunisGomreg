@@ -1,0 +1,2592 @@
+fileFormatVersion: 2
+guid: 6b57d97ba2549624b845cabd445d3da7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Acceletor
+    100002: Acceletor 1
+    100004: Ambriage
+    100006: Animation
+    100008: B_Suspension
+    100010: Back
+    100012: Back 1
+    100014: Back5
+    100016: Base
+    100018: Base 1
+    100020: Base_Plastic
+    100022: Base_Teath
+    100024: Behind_thecar
+    100026: Belt
+    100028: Belt1
+    100030: Biiip
+    100032: Bord1
+    100034: BUtton
+    100036: Cannon
+    100038: //RootNode
+    100040: Car 1
+    100042: Car1
+    100044: Car_body_grp
+    100046: Chain04Shape_MASH1_Instancer_0
+    100048: Chain04Shape_MASH1_Instancer_1
+    100050: Chain04Shape_MASH1_Instancer_10
+    100052: Chain04Shape_MASH1_Instancer_100
+    100054: Chain04Shape_MASH1_Instancer_101
+    100056: Chain04Shape_MASH1_Instancer_102
+    100058: Chain04Shape_MASH1_Instancer_103
+    100060: Chain04Shape_MASH1_Instancer_104
+    100062: Chain04Shape_MASH1_Instancer_105
+    100064: Chain04Shape_MASH1_Instancer_106
+    100066: Chain04Shape_MASH1_Instancer_107
+    100068: Chain04Shape_MASH1_Instancer_108
+    100070: Chain04Shape_MASH1_Instancer_109
+    100072: Chain04Shape_MASH1_Instancer_11
+    100074: Chain04Shape_MASH1_Instancer_110
+    100076: Chain04Shape_MASH1_Instancer_111
+    100078: Chain04Shape_MASH1_Instancer_112
+    100080: Chain04Shape_MASH1_Instancer_113
+    100082: Chain04Shape_MASH1_Instancer_114
+    100084: Chain04Shape_MASH1_Instancer_115
+    100086: Chain04Shape_MASH1_Instancer_116
+    100088: Chain04Shape_MASH1_Instancer_117
+    100090: Chain04Shape_MASH1_Instancer_118
+    100092: Chain04Shape_MASH1_Instancer_119
+    100094: Chain04Shape_MASH1_Instancer_12
+    100096: Chain04Shape_MASH1_Instancer_120
+    100098: Chain04Shape_MASH1_Instancer_121
+    100100: Chain04Shape_MASH1_Instancer_122
+    100102: Chain04Shape_MASH1_Instancer_123
+    100104: Chain04Shape_MASH1_Instancer_124
+    100106: Chain04Shape_MASH1_Instancer_125
+    100108: Chain04Shape_MASH1_Instancer_126
+    100110: Chain04Shape_MASH1_Instancer_127
+    100112: Chain04Shape_MASH1_Instancer_128
+    100114: Chain04Shape_MASH1_Instancer_129
+    100116: Chain04Shape_MASH1_Instancer_13
+    100118: Chain04Shape_MASH1_Instancer_130
+    100120: Chain04Shape_MASH1_Instancer_131
+    100122: Chain04Shape_MASH1_Instancer_132
+    100124: Chain04Shape_MASH1_Instancer_133
+    100126: Chain04Shape_MASH1_Instancer_134
+    100128: Chain04Shape_MASH1_Instancer_135
+    100130: Chain04Shape_MASH1_Instancer_136
+    100132: Chain04Shape_MASH1_Instancer_137
+    100134: Chain04Shape_MASH1_Instancer_138
+    100136: Chain04Shape_MASH1_Instancer_139
+    100138: Chain04Shape_MASH1_Instancer_14
+    100140: Chain04Shape_MASH1_Instancer_140
+    100142: Chain04Shape_MASH1_Instancer_141
+    100144: Chain04Shape_MASH1_Instancer_142
+    100146: Chain04Shape_MASH1_Instancer_15
+    100148: Chain04Shape_MASH1_Instancer_16
+    100150: Chain04Shape_MASH1_Instancer_17
+    100152: Chain04Shape_MASH1_Instancer_18
+    100154: Chain04Shape_MASH1_Instancer_19
+    100156: Chain04Shape_MASH1_Instancer_2
+    100158: Chain04Shape_MASH1_Instancer_20
+    100160: Chain04Shape_MASH1_Instancer_21
+    100162: Chain04Shape_MASH1_Instancer_22
+    100164: Chain04Shape_MASH1_Instancer_23
+    100166: Chain04Shape_MASH1_Instancer_24
+    100168: Chain04Shape_MASH1_Instancer_25
+    100170: Chain04Shape_MASH1_Instancer_26
+    100172: Chain04Shape_MASH1_Instancer_27
+    100174: Chain04Shape_MASH1_Instancer_28
+    100176: Chain04Shape_MASH1_Instancer_29
+    100178: Chain04Shape_MASH1_Instancer_3
+    100180: Chain04Shape_MASH1_Instancer_30
+    100182: Chain04Shape_MASH1_Instancer_31
+    100184: Chain04Shape_MASH1_Instancer_32
+    100186: Chain04Shape_MASH1_Instancer_33
+    100188: Chain04Shape_MASH1_Instancer_34
+    100190: Chain04Shape_MASH1_Instancer_35
+    100192: Chain04Shape_MASH1_Instancer_36
+    100194: Chain04Shape_MASH1_Instancer_37
+    100196: Chain04Shape_MASH1_Instancer_38
+    100198: Chain04Shape_MASH1_Instancer_39
+    100200: Chain04Shape_MASH1_Instancer_4
+    100202: Chain04Shape_MASH1_Instancer_40
+    100204: Chain04Shape_MASH1_Instancer_41
+    100206: Chain04Shape_MASH1_Instancer_42
+    100208: Chain04Shape_MASH1_Instancer_43
+    100210: Chain04Shape_MASH1_Instancer_44
+    100212: Chain04Shape_MASH1_Instancer_45
+    100214: Chain04Shape_MASH1_Instancer_46
+    100216: Chain04Shape_MASH1_Instancer_47
+    100218: Chain04Shape_MASH1_Instancer_48
+    100220: Chain04Shape_MASH1_Instancer_49
+    100222: Chain04Shape_MASH1_Instancer_5
+    100224: Chain04Shape_MASH1_Instancer_50
+    100226: Chain04Shape_MASH1_Instancer_51
+    100228: Chain04Shape_MASH1_Instancer_52
+    100230: Chain04Shape_MASH1_Instancer_53
+    100232: Chain04Shape_MASH1_Instancer_54
+    100234: Chain04Shape_MASH1_Instancer_55
+    100236: Chain04Shape_MASH1_Instancer_56
+    100238: Chain04Shape_MASH1_Instancer_57
+    100240: Chain04Shape_MASH1_Instancer_58
+    100242: Chain04Shape_MASH1_Instancer_59
+    100244: Chain04Shape_MASH1_Instancer_6
+    100246: Chain04Shape_MASH1_Instancer_60
+    100248: Chain04Shape_MASH1_Instancer_61
+    100250: Chain04Shape_MASH1_Instancer_62
+    100252: Chain04Shape_MASH1_Instancer_63
+    100254: Chain04Shape_MASH1_Instancer_64
+    100256: Chain04Shape_MASH1_Instancer_65
+    100258: Chain04Shape_MASH1_Instancer_66
+    100260: Chain04Shape_MASH1_Instancer_67
+    100262: Chain04Shape_MASH1_Instancer_68
+    100264: Chain04Shape_MASH1_Instancer_69
+    100266: Chain04Shape_MASH1_Instancer_7
+    100268: Chain04Shape_MASH1_Instancer_70
+    100270: Chain04Shape_MASH1_Instancer_71
+    100272: Chain04Shape_MASH1_Instancer_72
+    100274: Chain04Shape_MASH1_Instancer_73
+    100276: Chain04Shape_MASH1_Instancer_74
+    100278: Chain04Shape_MASH1_Instancer_75
+    100280: Chain04Shape_MASH1_Instancer_76
+    100282: Chain04Shape_MASH1_Instancer_77
+    100284: Chain04Shape_MASH1_Instancer_78
+    100286: Chain04Shape_MASH1_Instancer_79
+    100288: Chain04Shape_MASH1_Instancer_8
+    100290: Chain04Shape_MASH1_Instancer_80
+    100292: Chain04Shape_MASH1_Instancer_81
+    100294: Chain04Shape_MASH1_Instancer_82
+    100296: Chain04Shape_MASH1_Instancer_83
+    100298: Chain04Shape_MASH1_Instancer_84
+    100300: Chain04Shape_MASH1_Instancer_85
+    100302: Chain04Shape_MASH1_Instancer_86
+    100304: Chain04Shape_MASH1_Instancer_87
+    100306: Chain04Shape_MASH1_Instancer_88
+    100308: Chain04Shape_MASH1_Instancer_89
+    100310: Chain04Shape_MASH1_Instancer_9
+    100312: Chain04Shape_MASH1_Instancer_90
+    100314: Chain04Shape_MASH1_Instancer_91
+    100316: Chain04Shape_MASH1_Instancer_92
+    100318: Chain04Shape_MASH1_Instancer_93
+    100320: Chain04Shape_MASH1_Instancer_94
+    100322: Chain04Shape_MASH1_Instancer_95
+    100324: Chain04Shape_MASH1_Instancer_96
+    100326: Chain04Shape_MASH1_Instancer_97
+    100328: Chain04Shape_MASH1_Instancer_98
+    100330: Chain04Shape_MASH1_Instancer_99
+    100332: Chair
+    100334: Chair 1
+    100336: Chair 2
+    100338: Chair 3
+    100340: Chair2
+    100342: Chair2 1
+    100344: Chair_and_Tapis_And_accelator
+    100346: column_metal
+    100348: column_metal2
+    100350: counter
+    100352: Cover_
+    100354: Cover_motor
+    100356: Detail
+    100358: Detail1
+    100360: Diffuse
+    100362: DIsc
+    100364: Disc
+    100366: Disc 1
+    100368: Disc 2
+    100370: Door
+    100372: Door 1
+    100374: Door1
+    100376: Door1 1
+    100378: Door2
+    100380: door_pump
+    100382: Dowen
+    100384: etoile
+    100386: etoile 1
+    100388: Exhaust
+    100390: Exhaust_Fire
+    100392: F_Suspension
+    100394: Fire
+    100396: For_Glasses
+    100398: Forteath
+    100400: Frenage
+    100402: Front_lamp_Leeft
+    100404: Front_lamp_Right
+    100406: Glass
+    100408: glass
+    100410: Glass 1
+    100412: Glass 2
+    100414: Glass1
+    100416: Glass2
+    100418: Grid
+    100420: group84911161
+    100422: group84911162
+    100424: group84911182
+    100426: group84911191
+    100428: group84911192
+    100430: group84911194
+    100432: group84911194 1
+    100434: group84911195
+    100436: group84911195 1
+    100438: group84911196
+    100440: group84911197
+    100442: group84911202
+    100444: group84911203
+    100446: Holes
+    100448: Inside_car__
+    100450: Key
+    100452: Key 1
+    100454: L_B_Tire
+    100456: L_B_Tire_
+    100458: L_Exhaust
+    100460: L_F_Tire
+    100462: L_F_Tire_
+    100464: L_Hand_gun
+    100466: lamp1_1
+    100468: lamp1_5
+    100470: lamp1_5 1
+    100472: lamp1_6
+    100474: Lamp_back
+    100476: lamp_detail
+    100478: lamp_detail 1
+    100480: Lamp_Top
+    100482: lampbehindthecar_left
+    100484: lampbehindthecar_left8
+    100486: Left_Drivingwheel
+    100488: locator15_Righthand
+    100490: Locator_for_small_carac
+    100492: locator_Lefthand
+    100494: Machine
+    100496: MASH1_Instancer_objects
+    100498: Metal
+    100500: Metal_and_leather
+    100502: Metal_for_cylinder
+    100504: Metal_for_cylinder 1
+    100506: Metal_for_cylinder2
+    100508: Metal_for_cylinder3
+    100510: metal_forchair
+    100512: metal_forchair 1
+    100514: metal_forchair 2
+    100516: metal_forchair2
+    100518: Metal_front
+    100520: Metalforwhell
+    100522: Mirro
+    100524: Mirror1
+    100526: Mirror2
+    100528: Motor
+    100530: Next_motor
+    100532: Next_motor1
+    100534: NIght_mirror_Hanging_
+    100536: pCube10
+    100538: pCube6
+    100540: pCube6 1
+    100542: pCube6 2
+    100544: pCube6 3
+    100546: pCube7
+    100548: pCube7 1
+    100550: pCube7 2
+    100552: pCube7 3
+    100554: pCube8
+    100556: pCube8 1
+    100558: pCube8 2
+    100560: pCube8 3
+    100562: pCube9
+    100564: pCube9 1
+    100566: pCube9 2
+    100568: pCube9 3
+    100570: pCylinder100
+    100572: pCylinder101
+    100574: pCylinder102
+    100576: pCylinder11
+    100578: pCylinder14
+    100580: pCylinder19
+    100582: pCylinder23
+    100584: pCylinder23 1
+    100586: pCylinder27
+    100588: pCylinder29
+    100590: pCylinder34
+    100592: pCylinder35
+    100594: pCylinder36
+    100596: pCylinder42
+    100598: pCylinder43
+    100600: pCylinder44
+    100602: pCylinder45
+    100604: pCylinder49
+    100606: pCylinder49 1
+    100608: pCylinder52
+    100610: pCylinder53
+    100612: pCylinder54
+    100614: pCylinder56
+    100616: pCylinder56 1
+    100618: pCylinder59
+    100620: pCylinder59 1
+    100622: pCylinder60
+    100624: pCylinder61
+    100626: pCylinder62
+    100628: pCylinder63
+    100630: pCylinder64
+    100632: pCylinder65
+    100634: pCylinder66
+    100636: pCylinder67
+    100638: pCylinder68
+    100640: pCylinder69
+    100642: pCylinder70
+    100644: pCylinder74
+    100646: pCylinder74 1
+    100648: pCylinder74 2
+    100650: pCylinder74 3
+    100652: pCylinder75
+    100654: pCylinder75 1
+    100656: pCylinder75 2
+    100658: pCylinder75 3
+    100660: pCylinder76
+    100662: pCylinder76 1
+    100664: pCylinder76 2
+    100666: pCylinder76 3
+    100668: pCylinder77
+    100670: pCylinder77 1
+    100672: pCylinder77 2
+    100674: pCylinder77 3
+    100676: pCylinder78
+    100678: pCylinder78 1
+    100680: pCylinder78 2
+    100682: pCylinder78 3
+    100684: pCylinder80
+    100686: pCylinder80 1
+    100688: pCylinder80 2
+    100690: pCylinder80 3
+    100692: pCylinder81
+    100694: pCylinder82
+    100696: pCylinder83
+    100698: pCylinder84
+    100700: pCylinder84 1
+    100702: pCylinder85
+    100704: pCylinder85 1
+    100706: pCylinder86
+    100708: pCylinder86 1
+    100710: pCylinder9
+    100712: pCylinder90
+    100714: pCylinder91
+    100716: pCylinder92
+    100718: pCylinder93
+    100720: pCylinder94
+    100722: pCylinder98
+    100724: pCylinder99
+    100726: "pCylinder\xE7low"
+    100728: "pCylinder\xE7low 1"
+    100730: pHelix1
+    100732: pHelix1 1
+    100734: pHelix1 2
+    100736: pHelix1 3
+    100738: Plas
+    100740: Plastic
+    100742: Plastic 1
+    100744: Plastic_back
+    100746: Plastic_front
+    100748: polySurface2
+    100750: polySurface3
+    100752: polySurface33337
+    100754: polySurface33337 1
+    100756: polySurface33338
+    100758: polySurface33338 1
+    100760: polySurface33339
+    100762: polySurface33340
+    100764: polySurface33346
+    100766: polySurface33346 1
+    100768: polySurface33351
+    100770: polySurface33359
+    100772: polySurface33359 1
+    100774: polySurface33360
+    100776: polySurface33360 1
+    100778: polySurface33364
+    100780: polySurface33365
+    100782: polySurface33367
+    100784: polySurface33369
+    100786: polySurface33369 1
+    100788: polySurface33372
+    100790: polySurface33372 1
+    100792: polySurface33385
+    100794: polySurface33385 1
+    100796: polySurface33386
+    100798: polySurface33387
+    100800: polySurface33388
+    100802: polySurface33388 1
+    100804: polySurface33397
+    100806: polySurface33397 1
+    100808: polySurface33398
+    100810: polySurface33398 1
+    100812: polySurface33402
+    100814: polySurface33402 1
+    100816: polySurface33413
+    100818: polySurface33414
+    100820: polySurface33414 1
+    100822: polySurface33415
+    100824: polySurface33416
+    100826: polySurface33416 1
+    100828: polySurface33417
+    100830: polySurface33419
+    100832: polySurface33420
+    100834: polySurface33423
+    100836: polySurface33424
+    100838: polySurface33425
+    100840: polySurface33426
+    100842: polySurface33427
+    100844: polySurface33428
+    100846: polySurface33429
+    100848: polySurface33454
+    100850: polySurface33454 1
+    100852: polySurface33457
+    100854: polySurface33457 1
+    100856: polySurface33459
+    100858: polySurface33465
+    100860: polySurface33466
+    100862: PolySurface33479_00001____
+    100864: PolySurface33479_00001____ 1
+    100866: PolySurface33479_00001____ 2
+    100868: PolySurface33479_00001____ 3
+    100870: PolySurface33479_00001____4
+    100872: PolySurface33479_00001____4 1
+    100874: PolySurface33479_00001____4 2
+    100876: PolySurface33479_00001____4 3
+    100878: PolySurface33479_00001____5
+    100880: PolySurface33479_00001____5 1
+    100882: PolySurface33479_00001____5 2
+    100884: PolySurface33479_00001____5 3
+    100886: PolySurface33479_00001____6
+    100888: PolySurface33479_00001____6 1
+    100890: PolySurface33479_00001____6 2
+    100892: PolySurface33479_00001____6 3
+    100894: PolySurface33479_00001____7
+    100896: PolySurface33479_00001____7 1
+    100898: PolySurface33479_00001____8
+    100900: PolySurface33479_00001____9
+    100902: polySurface33490
+    100904: polySurface33492
+    100906: polySurface33504
+    100908: polySurface33505
+    100910: polySurface33506
+    100912: polySurface33508
+    100914: polySurface33511
+    100916: polySurface33512
+    100918: pPipe3
+    100920: pPipe3 1
+    100922: pPipe3 2
+    100924: pPipe3 3
+    100926: pPipe8
+    100928: pSphere1
+    100930: pSphere1 1
+    100932: pSphere1 2
+    100934: pSphere1 3
+    100936: pSphere2
+    100938: pSphere3
+    100940: pSphere4
+    100942: pSphere5
+    100944: pSphere5 1
+    100946: pTorus17
+    100948: pTorus17 1
+    100950: pTorus17 2
+    100952: pTorus17 3
+    100954: pTorus18
+    100956: pTorus19
+    100958: pTorus20
+    100960: pTorus21
+    100962: pTorus22
+    100964: pTorus23
+    100966: R_B_Tire
+    100968: R_B_Tire_
+    100970: R_Exhaust
+    100972: R_F_Tire
+    100974: R_F_Tire_
+    100976: R_Hand_gun
+    100978: Radio
+    100980: Radio_Texture
+    100982: ressort
+    100984: ressort 1
+    100986: ressort 2
+    100988: ressort 3
+    100990: Right_Drivingwheel
+    100992: Rope
+    100994: Rope 1
+    100996: small_window
+    100998: small_window1
+    101000: Speed_texture
+    101002: Steering_wheel
+    101004: Steering_wheel 1
+    101006: sticker_fire
+    101008: Support
+    101010: Tapis1
+    101012: Tapis2
+    101014: Teath
+    101016: Temp
+    101018: Temperuture_text
+    101020: Texture1
+    101022: Texture2
+    101024: Texure_for_speed
+    101026: Thingbehind_lamps
+    101028: thingundercar
+    101030: Under_car
+    101032: Undercar_vise
+    101034: undermaster1
+    101036: Upper
+    101038: upper
+    101040: Vise
+    101042: Vise 1
+    101044: Vise 2
+    101046: Vise_machine_h_
+    101048: Vise_machine_h_1
+    101050: Vise_metal
+    101052: Volume
+    101054: Volume1
+    101056: Wheel
+    101058: whell_Right_top
+    101060: whell_Right_top 1
+    101062: whell_Right_top 2
+    101064: whell_Right_top 3
+    400000: Acceletor
+    400002: Acceletor 1
+    400004: Ambriage
+    400006: Animation
+    400008: B_Suspension
+    400010: Back
+    400012: Back 1
+    400014: Back5
+    400016: Base
+    400018: Base 1
+    400020: Base_Plastic
+    400022: Base_Teath
+    400024: Behind_thecar
+    400026: Belt
+    400028: Belt1
+    400030: Biiip
+    400032: Bord1
+    400034: BUtton
+    400036: Cannon
+    400038: //RootNode
+    400040: Car 1
+    400042: Car1
+    400044: Car_body_grp
+    400046: Chain04Shape_MASH1_Instancer_0
+    400048: Chain04Shape_MASH1_Instancer_1
+    400050: Chain04Shape_MASH1_Instancer_10
+    400052: Chain04Shape_MASH1_Instancer_100
+    400054: Chain04Shape_MASH1_Instancer_101
+    400056: Chain04Shape_MASH1_Instancer_102
+    400058: Chain04Shape_MASH1_Instancer_103
+    400060: Chain04Shape_MASH1_Instancer_104
+    400062: Chain04Shape_MASH1_Instancer_105
+    400064: Chain04Shape_MASH1_Instancer_106
+    400066: Chain04Shape_MASH1_Instancer_107
+    400068: Chain04Shape_MASH1_Instancer_108
+    400070: Chain04Shape_MASH1_Instancer_109
+    400072: Chain04Shape_MASH1_Instancer_11
+    400074: Chain04Shape_MASH1_Instancer_110
+    400076: Chain04Shape_MASH1_Instancer_111
+    400078: Chain04Shape_MASH1_Instancer_112
+    400080: Chain04Shape_MASH1_Instancer_113
+    400082: Chain04Shape_MASH1_Instancer_114
+    400084: Chain04Shape_MASH1_Instancer_115
+    400086: Chain04Shape_MASH1_Instancer_116
+    400088: Chain04Shape_MASH1_Instancer_117
+    400090: Chain04Shape_MASH1_Instancer_118
+    400092: Chain04Shape_MASH1_Instancer_119
+    400094: Chain04Shape_MASH1_Instancer_12
+    400096: Chain04Shape_MASH1_Instancer_120
+    400098: Chain04Shape_MASH1_Instancer_121
+    400100: Chain04Shape_MASH1_Instancer_122
+    400102: Chain04Shape_MASH1_Instancer_123
+    400104: Chain04Shape_MASH1_Instancer_124
+    400106: Chain04Shape_MASH1_Instancer_125
+    400108: Chain04Shape_MASH1_Instancer_126
+    400110: Chain04Shape_MASH1_Instancer_127
+    400112: Chain04Shape_MASH1_Instancer_128
+    400114: Chain04Shape_MASH1_Instancer_129
+    400116: Chain04Shape_MASH1_Instancer_13
+    400118: Chain04Shape_MASH1_Instancer_130
+    400120: Chain04Shape_MASH1_Instancer_131
+    400122: Chain04Shape_MASH1_Instancer_132
+    400124: Chain04Shape_MASH1_Instancer_133
+    400126: Chain04Shape_MASH1_Instancer_134
+    400128: Chain04Shape_MASH1_Instancer_135
+    400130: Chain04Shape_MASH1_Instancer_136
+    400132: Chain04Shape_MASH1_Instancer_137
+    400134: Chain04Shape_MASH1_Instancer_138
+    400136: Chain04Shape_MASH1_Instancer_139
+    400138: Chain04Shape_MASH1_Instancer_14
+    400140: Chain04Shape_MASH1_Instancer_140
+    400142: Chain04Shape_MASH1_Instancer_141
+    400144: Chain04Shape_MASH1_Instancer_142
+    400146: Chain04Shape_MASH1_Instancer_15
+    400148: Chain04Shape_MASH1_Instancer_16
+    400150: Chain04Shape_MASH1_Instancer_17
+    400152: Chain04Shape_MASH1_Instancer_18
+    400154: Chain04Shape_MASH1_Instancer_19
+    400156: Chain04Shape_MASH1_Instancer_2
+    400158: Chain04Shape_MASH1_Instancer_20
+    400160: Chain04Shape_MASH1_Instancer_21
+    400162: Chain04Shape_MASH1_Instancer_22
+    400164: Chain04Shape_MASH1_Instancer_23
+    400166: Chain04Shape_MASH1_Instancer_24
+    400168: Chain04Shape_MASH1_Instancer_25
+    400170: Chain04Shape_MASH1_Instancer_26
+    400172: Chain04Shape_MASH1_Instancer_27
+    400174: Chain04Shape_MASH1_Instancer_28
+    400176: Chain04Shape_MASH1_Instancer_29
+    400178: Chain04Shape_MASH1_Instancer_3
+    400180: Chain04Shape_MASH1_Instancer_30
+    400182: Chain04Shape_MASH1_Instancer_31
+    400184: Chain04Shape_MASH1_Instancer_32
+    400186: Chain04Shape_MASH1_Instancer_33
+    400188: Chain04Shape_MASH1_Instancer_34
+    400190: Chain04Shape_MASH1_Instancer_35
+    400192: Chain04Shape_MASH1_Instancer_36
+    400194: Chain04Shape_MASH1_Instancer_37
+    400196: Chain04Shape_MASH1_Instancer_38
+    400198: Chain04Shape_MASH1_Instancer_39
+    400200: Chain04Shape_MASH1_Instancer_4
+    400202: Chain04Shape_MASH1_Instancer_40
+    400204: Chain04Shape_MASH1_Instancer_41
+    400206: Chain04Shape_MASH1_Instancer_42
+    400208: Chain04Shape_MASH1_Instancer_43
+    400210: Chain04Shape_MASH1_Instancer_44
+    400212: Chain04Shape_MASH1_Instancer_45
+    400214: Chain04Shape_MASH1_Instancer_46
+    400216: Chain04Shape_MASH1_Instancer_47
+    400218: Chain04Shape_MASH1_Instancer_48
+    400220: Chain04Shape_MASH1_Instancer_49
+    400222: Chain04Shape_MASH1_Instancer_5
+    400224: Chain04Shape_MASH1_Instancer_50
+    400226: Chain04Shape_MASH1_Instancer_51
+    400228: Chain04Shape_MASH1_Instancer_52
+    400230: Chain04Shape_MASH1_Instancer_53
+    400232: Chain04Shape_MASH1_Instancer_54
+    400234: Chain04Shape_MASH1_Instancer_55
+    400236: Chain04Shape_MASH1_Instancer_56
+    400238: Chain04Shape_MASH1_Instancer_57
+    400240: Chain04Shape_MASH1_Instancer_58
+    400242: Chain04Shape_MASH1_Instancer_59
+    400244: Chain04Shape_MASH1_Instancer_6
+    400246: Chain04Shape_MASH1_Instancer_60
+    400248: Chain04Shape_MASH1_Instancer_61
+    400250: Chain04Shape_MASH1_Instancer_62
+    400252: Chain04Shape_MASH1_Instancer_63
+    400254: Chain04Shape_MASH1_Instancer_64
+    400256: Chain04Shape_MASH1_Instancer_65
+    400258: Chain04Shape_MASH1_Instancer_66
+    400260: Chain04Shape_MASH1_Instancer_67
+    400262: Chain04Shape_MASH1_Instancer_68
+    400264: Chain04Shape_MASH1_Instancer_69
+    400266: Chain04Shape_MASH1_Instancer_7
+    400268: Chain04Shape_MASH1_Instancer_70
+    400270: Chain04Shape_MASH1_Instancer_71
+    400272: Chain04Shape_MASH1_Instancer_72
+    400274: Chain04Shape_MASH1_Instancer_73
+    400276: Chain04Shape_MASH1_Instancer_74
+    400278: Chain04Shape_MASH1_Instancer_75
+    400280: Chain04Shape_MASH1_Instancer_76
+    400282: Chain04Shape_MASH1_Instancer_77
+    400284: Chain04Shape_MASH1_Instancer_78
+    400286: Chain04Shape_MASH1_Instancer_79
+    400288: Chain04Shape_MASH1_Instancer_8
+    400290: Chain04Shape_MASH1_Instancer_80
+    400292: Chain04Shape_MASH1_Instancer_81
+    400294: Chain04Shape_MASH1_Instancer_82
+    400296: Chain04Shape_MASH1_Instancer_83
+    400298: Chain04Shape_MASH1_Instancer_84
+    400300: Chain04Shape_MASH1_Instancer_85
+    400302: Chain04Shape_MASH1_Instancer_86
+    400304: Chain04Shape_MASH1_Instancer_87
+    400306: Chain04Shape_MASH1_Instancer_88
+    400308: Chain04Shape_MASH1_Instancer_89
+    400310: Chain04Shape_MASH1_Instancer_9
+    400312: Chain04Shape_MASH1_Instancer_90
+    400314: Chain04Shape_MASH1_Instancer_91
+    400316: Chain04Shape_MASH1_Instancer_92
+    400318: Chain04Shape_MASH1_Instancer_93
+    400320: Chain04Shape_MASH1_Instancer_94
+    400322: Chain04Shape_MASH1_Instancer_95
+    400324: Chain04Shape_MASH1_Instancer_96
+    400326: Chain04Shape_MASH1_Instancer_97
+    400328: Chain04Shape_MASH1_Instancer_98
+    400330: Chain04Shape_MASH1_Instancer_99
+    400332: Chair
+    400334: Chair 1
+    400336: Chair 2
+    400338: Chair 3
+    400340: Chair2
+    400342: Chair2 1
+    400344: Chair_and_Tapis_And_accelator
+    400346: column_metal
+    400348: column_metal2
+    400350: counter
+    400352: Cover_
+    400354: Cover_motor
+    400356: Detail
+    400358: Detail1
+    400360: Diffuse
+    400362: DIsc
+    400364: Disc
+    400366: Disc 1
+    400368: Disc 2
+    400370: Door
+    400372: Door 1
+    400374: Door1
+    400376: Door1 1
+    400378: Door2
+    400380: door_pump
+    400382: Dowen
+    400384: etoile
+    400386: etoile 1
+    400388: Exhaust
+    400390: Exhaust_Fire
+    400392: F_Suspension
+    400394: Fire
+    400396: For_Glasses
+    400398: Forteath
+    400400: Frenage
+    400402: Front_lamp_Leeft
+    400404: Front_lamp_Right
+    400406: Glass
+    400408: glass
+    400410: Glass 1
+    400412: Glass 2
+    400414: Glass1
+    400416: Glass2
+    400418: Grid
+    400420: group84911161
+    400422: group84911162
+    400424: group84911182
+    400426: group84911191
+    400428: group84911192
+    400430: group84911194
+    400432: group84911194 1
+    400434: group84911195
+    400436: group84911195 1
+    400438: group84911196
+    400440: group84911197
+    400442: group84911202
+    400444: group84911203
+    400446: Holes
+    400448: Inside_car__
+    400450: Key
+    400452: Key 1
+    400454: L_B_Tire
+    400456: L_B_Tire_
+    400458: L_Exhaust
+    400460: L_F_Tire
+    400462: L_F_Tire_
+    400464: L_Hand_gun
+    400466: lamp1_1
+    400468: lamp1_5
+    400470: lamp1_5 1
+    400472: lamp1_6
+    400474: Lamp_back
+    400476: lamp_detail
+    400478: lamp_detail 1
+    400480: Lamp_Top
+    400482: lampbehindthecar_left
+    400484: lampbehindthecar_left8
+    400486: Left_Drivingwheel
+    400488: locator15_Righthand
+    400490: Locator_for_small_carac
+    400492: locator_Lefthand
+    400494: Machine
+    400496: MASH1_Instancer_objects
+    400498: Metal
+    400500: Metal_and_leather
+    400502: Metal_for_cylinder
+    400504: Metal_for_cylinder 1
+    400506: Metal_for_cylinder2
+    400508: Metal_for_cylinder3
+    400510: metal_forchair
+    400512: metal_forchair 1
+    400514: metal_forchair 2
+    400516: metal_forchair2
+    400518: Metal_front
+    400520: Metalforwhell
+    400522: Mirro
+    400524: Mirror1
+    400526: Mirror2
+    400528: Motor
+    400530: Next_motor
+    400532: Next_motor1
+    400534: NIght_mirror_Hanging_
+    400536: pCube10
+    400538: pCube6
+    400540: pCube6 1
+    400542: pCube6 2
+    400544: pCube6 3
+    400546: pCube7
+    400548: pCube7 1
+    400550: pCube7 2
+    400552: pCube7 3
+    400554: pCube8
+    400556: pCube8 1
+    400558: pCube8 2
+    400560: pCube8 3
+    400562: pCube9
+    400564: pCube9 1
+    400566: pCube9 2
+    400568: pCube9 3
+    400570: pCylinder100
+    400572: pCylinder101
+    400574: pCylinder102
+    400576: pCylinder11
+    400578: pCylinder14
+    400580: pCylinder19
+    400582: pCylinder23
+    400584: pCylinder23 1
+    400586: pCylinder27
+    400588: pCylinder29
+    400590: pCylinder34
+    400592: pCylinder35
+    400594: pCylinder36
+    400596: pCylinder42
+    400598: pCylinder43
+    400600: pCylinder44
+    400602: pCylinder45
+    400604: pCylinder49
+    400606: pCylinder49 1
+    400608: pCylinder52
+    400610: pCylinder53
+    400612: pCylinder54
+    400614: pCylinder56
+    400616: pCylinder56 1
+    400618: pCylinder59
+    400620: pCylinder59 1
+    400622: pCylinder60
+    400624: pCylinder61
+    400626: pCylinder62
+    400628: pCylinder63
+    400630: pCylinder64
+    400632: pCylinder65
+    400634: pCylinder66
+    400636: pCylinder67
+    400638: pCylinder68
+    400640: pCylinder69
+    400642: pCylinder70
+    400644: pCylinder74
+    400646: pCylinder74 1
+    400648: pCylinder74 2
+    400650: pCylinder74 3
+    400652: pCylinder75
+    400654: pCylinder75 1
+    400656: pCylinder75 2
+    400658: pCylinder75 3
+    400660: pCylinder76
+    400662: pCylinder76 1
+    400664: pCylinder76 2
+    400666: pCylinder76 3
+    400668: pCylinder77
+    400670: pCylinder77 1
+    400672: pCylinder77 2
+    400674: pCylinder77 3
+    400676: pCylinder78
+    400678: pCylinder78 1
+    400680: pCylinder78 2
+    400682: pCylinder78 3
+    400684: pCylinder80
+    400686: pCylinder80 1
+    400688: pCylinder80 2
+    400690: pCylinder80 3
+    400692: pCylinder81
+    400694: pCylinder82
+    400696: pCylinder83
+    400698: pCylinder84
+    400700: pCylinder84 1
+    400702: pCylinder85
+    400704: pCylinder85 1
+    400706: pCylinder86
+    400708: pCylinder86 1
+    400710: pCylinder9
+    400712: pCylinder90
+    400714: pCylinder91
+    400716: pCylinder92
+    400718: pCylinder93
+    400720: pCylinder94
+    400722: pCylinder98
+    400724: pCylinder99
+    400726: "pCylinder\xE7low"
+    400728: "pCylinder\xE7low 1"
+    400730: pHelix1
+    400732: pHelix1 1
+    400734: pHelix1 2
+    400736: pHelix1 3
+    400738: Plas
+    400740: Plastic
+    400742: Plastic 1
+    400744: Plastic_back
+    400746: Plastic_front
+    400748: polySurface2
+    400750: polySurface3
+    400752: polySurface33337
+    400754: polySurface33337 1
+    400756: polySurface33338
+    400758: polySurface33338 1
+    400760: polySurface33339
+    400762: polySurface33340
+    400764: polySurface33346
+    400766: polySurface33346 1
+    400768: polySurface33351
+    400770: polySurface33359
+    400772: polySurface33359 1
+    400774: polySurface33360
+    400776: polySurface33360 1
+    400778: polySurface33364
+    400780: polySurface33365
+    400782: polySurface33367
+    400784: polySurface33369
+    400786: polySurface33369 1
+    400788: polySurface33372
+    400790: polySurface33372 1
+    400792: polySurface33385
+    400794: polySurface33385 1
+    400796: polySurface33386
+    400798: polySurface33387
+    400800: polySurface33388
+    400802: polySurface33388 1
+    400804: polySurface33397
+    400806: polySurface33397 1
+    400808: polySurface33398
+    400810: polySurface33398 1
+    400812: polySurface33402
+    400814: polySurface33402 1
+    400816: polySurface33413
+    400818: polySurface33414
+    400820: polySurface33414 1
+    400822: polySurface33415
+    400824: polySurface33416
+    400826: polySurface33416 1
+    400828: polySurface33417
+    400830: polySurface33419
+    400832: polySurface33420
+    400834: polySurface33423
+    400836: polySurface33424
+    400838: polySurface33425
+    400840: polySurface33426
+    400842: polySurface33427
+    400844: polySurface33428
+    400846: polySurface33429
+    400848: polySurface33454
+    400850: polySurface33454 1
+    400852: polySurface33457
+    400854: polySurface33457 1
+    400856: polySurface33459
+    400858: polySurface33465
+    400860: polySurface33466
+    400862: PolySurface33479_00001____
+    400864: PolySurface33479_00001____ 1
+    400866: PolySurface33479_00001____ 2
+    400868: PolySurface33479_00001____ 3
+    400870: PolySurface33479_00001____4
+    400872: PolySurface33479_00001____4 1
+    400874: PolySurface33479_00001____4 2
+    400876: PolySurface33479_00001____4 3
+    400878: PolySurface33479_00001____5
+    400880: PolySurface33479_00001____5 1
+    400882: PolySurface33479_00001____5 2
+    400884: PolySurface33479_00001____5 3
+    400886: PolySurface33479_00001____6
+    400888: PolySurface33479_00001____6 1
+    400890: PolySurface33479_00001____6 2
+    400892: PolySurface33479_00001____6 3
+    400894: PolySurface33479_00001____7
+    400896: PolySurface33479_00001____7 1
+    400898: PolySurface33479_00001____8
+    400900: PolySurface33479_00001____9
+    400902: polySurface33490
+    400904: polySurface33492
+    400906: polySurface33504
+    400908: polySurface33505
+    400910: polySurface33506
+    400912: polySurface33508
+    400914: polySurface33511
+    400916: polySurface33512
+    400918: pPipe3
+    400920: pPipe3 1
+    400922: pPipe3 2
+    400924: pPipe3 3
+    400926: pPipe8
+    400928: pSphere1
+    400930: pSphere1 1
+    400932: pSphere1 2
+    400934: pSphere1 3
+    400936: pSphere2
+    400938: pSphere3
+    400940: pSphere4
+    400942: pSphere5
+    400944: pSphere5 1
+    400946: pTorus17
+    400948: pTorus17 1
+    400950: pTorus17 2
+    400952: pTorus17 3
+    400954: pTorus18
+    400956: pTorus19
+    400958: pTorus20
+    400960: pTorus21
+    400962: pTorus22
+    400964: pTorus23
+    400966: R_B_Tire
+    400968: R_B_Tire_
+    400970: R_Exhaust
+    400972: R_F_Tire
+    400974: R_F_Tire_
+    400976: R_Hand_gun
+    400978: Radio
+    400980: Radio_Texture
+    400982: ressort
+    400984: ressort 1
+    400986: ressort 2
+    400988: ressort 3
+    400990: Right_Drivingwheel
+    400992: Rope
+    400994: Rope 1
+    400996: small_window
+    400998: small_window1
+    401000: Speed_texture
+    401002: Steering_wheel
+    401004: Steering_wheel 1
+    401006: sticker_fire
+    401008: Support
+    401010: Tapis1
+    401012: Tapis2
+    401014: Teath
+    401016: Temp
+    401018: Temperuture_text
+    401020: Texture1
+    401022: Texture2
+    401024: Texure_for_speed
+    401026: Thingbehind_lamps
+    401028: thingundercar
+    401030: Under_car
+    401032: Undercar_vise
+    401034: undermaster1
+    401036: Upper
+    401038: upper
+    401040: Vise
+    401042: Vise 1
+    401044: Vise 2
+    401046: Vise_machine_h_
+    401048: Vise_machine_h_1
+    401050: Vise_metal
+    401052: Volume
+    401054: Volume1
+    401056: Wheel
+    401058: whell_Right_top
+    401060: whell_Right_top 1
+    401062: whell_Right_top 2
+    401064: whell_Right_top 3
+    2100000: Wheels3
+    2100002: vise_for_machine3
+    2100004: Lamp3
+    2100006: Door_Plastic3
+    2100008: Glass_3
+    2100010: vise3
+    2100012: Bord_text7
+    2100014: Bord_text8
+    2100016: Texture_for_speed3
+    2100018: Backand_tapis3
+    2100020: Back4
+    2100022: newthings3
+    2100024: Baseand_teath3
+    2100026: Exhaust_fire_3
+    2100028: Detail_for_door3
+    2100030: motor3
+    2100032: Fireandplastic6
+    2100034: Fireandplastic7
+    2100036: vise2
+    2100038: Machine57
+    2100040: vise_for_machine2
+    2100042: Fireandplastic4
+    2100044: lambert1
+    2100046: Plastiqueforglass
+    2100048: Machine60
+    2300000: Acceletor 1
+    2300002: Ambriage
+    2300004: Back 1
+    2300006: Base_Plastic
+    2300008: Behind_thecar
+    2300010: Biiip
+    2300012: BUtton
+    2300014: Chain04Shape_MASH1_Instancer_0
+    2300016: Chain04Shape_MASH1_Instancer_1
+    2300018: Chain04Shape_MASH1_Instancer_10
+    2300020: Chain04Shape_MASH1_Instancer_100
+    2300022: Chain04Shape_MASH1_Instancer_101
+    2300024: Chain04Shape_MASH1_Instancer_102
+    2300026: Chain04Shape_MASH1_Instancer_103
+    2300028: Chain04Shape_MASH1_Instancer_104
+    2300030: Chain04Shape_MASH1_Instancer_105
+    2300032: Chain04Shape_MASH1_Instancer_106
+    2300034: Chain04Shape_MASH1_Instancer_107
+    2300036: Chain04Shape_MASH1_Instancer_108
+    2300038: Chain04Shape_MASH1_Instancer_109
+    2300040: Chain04Shape_MASH1_Instancer_11
+    2300042: Chain04Shape_MASH1_Instancer_110
+    2300044: Chain04Shape_MASH1_Instancer_111
+    2300046: Chain04Shape_MASH1_Instancer_112
+    2300048: Chain04Shape_MASH1_Instancer_113
+    2300050: Chain04Shape_MASH1_Instancer_114
+    2300052: Chain04Shape_MASH1_Instancer_115
+    2300054: Chain04Shape_MASH1_Instancer_116
+    2300056: Chain04Shape_MASH1_Instancer_117
+    2300058: Chain04Shape_MASH1_Instancer_118
+    2300060: Chain04Shape_MASH1_Instancer_119
+    2300062: Chain04Shape_MASH1_Instancer_12
+    2300064: Chain04Shape_MASH1_Instancer_120
+    2300066: Chain04Shape_MASH1_Instancer_121
+    2300068: Chain04Shape_MASH1_Instancer_122
+    2300070: Chain04Shape_MASH1_Instancer_123
+    2300072: Chain04Shape_MASH1_Instancer_124
+    2300074: Chain04Shape_MASH1_Instancer_125
+    2300076: Chain04Shape_MASH1_Instancer_126
+    2300078: Chain04Shape_MASH1_Instancer_127
+    2300080: Chain04Shape_MASH1_Instancer_128
+    2300082: Chain04Shape_MASH1_Instancer_129
+    2300084: Chain04Shape_MASH1_Instancer_13
+    2300086: Chain04Shape_MASH1_Instancer_130
+    2300088: Chain04Shape_MASH1_Instancer_131
+    2300090: Chain04Shape_MASH1_Instancer_132
+    2300092: Chain04Shape_MASH1_Instancer_133
+    2300094: Chain04Shape_MASH1_Instancer_134
+    2300096: Chain04Shape_MASH1_Instancer_135
+    2300098: Chain04Shape_MASH1_Instancer_136
+    2300100: Chain04Shape_MASH1_Instancer_137
+    2300102: Chain04Shape_MASH1_Instancer_138
+    2300104: Chain04Shape_MASH1_Instancer_139
+    2300106: Chain04Shape_MASH1_Instancer_14
+    2300108: Chain04Shape_MASH1_Instancer_140
+    2300110: Chain04Shape_MASH1_Instancer_141
+    2300112: Chain04Shape_MASH1_Instancer_142
+    2300114: Chain04Shape_MASH1_Instancer_15
+    2300116: Chain04Shape_MASH1_Instancer_16
+    2300118: Chain04Shape_MASH1_Instancer_17
+    2300120: Chain04Shape_MASH1_Instancer_18
+    2300122: Chain04Shape_MASH1_Instancer_19
+    2300124: Chain04Shape_MASH1_Instancer_2
+    2300126: Chain04Shape_MASH1_Instancer_20
+    2300128: Chain04Shape_MASH1_Instancer_21
+    2300130: Chain04Shape_MASH1_Instancer_22
+    2300132: Chain04Shape_MASH1_Instancer_23
+    2300134: Chain04Shape_MASH1_Instancer_24
+    2300136: Chain04Shape_MASH1_Instancer_25
+    2300138: Chain04Shape_MASH1_Instancer_26
+    2300140: Chain04Shape_MASH1_Instancer_27
+    2300142: Chain04Shape_MASH1_Instancer_28
+    2300144: Chain04Shape_MASH1_Instancer_29
+    2300146: Chain04Shape_MASH1_Instancer_3
+    2300148: Chain04Shape_MASH1_Instancer_30
+    2300150: Chain04Shape_MASH1_Instancer_31
+    2300152: Chain04Shape_MASH1_Instancer_32
+    2300154: Chain04Shape_MASH1_Instancer_33
+    2300156: Chain04Shape_MASH1_Instancer_34
+    2300158: Chain04Shape_MASH1_Instancer_35
+    2300160: Chain04Shape_MASH1_Instancer_36
+    2300162: Chain04Shape_MASH1_Instancer_37
+    2300164: Chain04Shape_MASH1_Instancer_38
+    2300166: Chain04Shape_MASH1_Instancer_39
+    2300168: Chain04Shape_MASH1_Instancer_4
+    2300170: Chain04Shape_MASH1_Instancer_40
+    2300172: Chain04Shape_MASH1_Instancer_41
+    2300174: Chain04Shape_MASH1_Instancer_42
+    2300176: Chain04Shape_MASH1_Instancer_43
+    2300178: Chain04Shape_MASH1_Instancer_44
+    2300180: Chain04Shape_MASH1_Instancer_45
+    2300182: Chain04Shape_MASH1_Instancer_46
+    2300184: Chain04Shape_MASH1_Instancer_47
+    2300186: Chain04Shape_MASH1_Instancer_48
+    2300188: Chain04Shape_MASH1_Instancer_49
+    2300190: Chain04Shape_MASH1_Instancer_5
+    2300192: Chain04Shape_MASH1_Instancer_50
+    2300194: Chain04Shape_MASH1_Instancer_51
+    2300196: Chain04Shape_MASH1_Instancer_52
+    2300198: Chain04Shape_MASH1_Instancer_53
+    2300200: Chain04Shape_MASH1_Instancer_54
+    2300202: Chain04Shape_MASH1_Instancer_55
+    2300204: Chain04Shape_MASH1_Instancer_56
+    2300206: Chain04Shape_MASH1_Instancer_57
+    2300208: Chain04Shape_MASH1_Instancer_58
+    2300210: Chain04Shape_MASH1_Instancer_59
+    2300212: Chain04Shape_MASH1_Instancer_6
+    2300214: Chain04Shape_MASH1_Instancer_60
+    2300216: Chain04Shape_MASH1_Instancer_61
+    2300218: Chain04Shape_MASH1_Instancer_62
+    2300220: Chain04Shape_MASH1_Instancer_63
+    2300222: Chain04Shape_MASH1_Instancer_64
+    2300224: Chain04Shape_MASH1_Instancer_65
+    2300226: Chain04Shape_MASH1_Instancer_66
+    2300228: Chain04Shape_MASH1_Instancer_67
+    2300230: Chain04Shape_MASH1_Instancer_68
+    2300232: Chain04Shape_MASH1_Instancer_69
+    2300234: Chain04Shape_MASH1_Instancer_7
+    2300236: Chain04Shape_MASH1_Instancer_70
+    2300238: Chain04Shape_MASH1_Instancer_71
+    2300240: Chain04Shape_MASH1_Instancer_72
+    2300242: Chain04Shape_MASH1_Instancer_73
+    2300244: Chain04Shape_MASH1_Instancer_74
+    2300246: Chain04Shape_MASH1_Instancer_75
+    2300248: Chain04Shape_MASH1_Instancer_76
+    2300250: Chain04Shape_MASH1_Instancer_77
+    2300252: Chain04Shape_MASH1_Instancer_78
+    2300254: Chain04Shape_MASH1_Instancer_79
+    2300256: Chain04Shape_MASH1_Instancer_8
+    2300258: Chain04Shape_MASH1_Instancer_80
+    2300260: Chain04Shape_MASH1_Instancer_81
+    2300262: Chain04Shape_MASH1_Instancer_82
+    2300264: Chain04Shape_MASH1_Instancer_83
+    2300266: Chain04Shape_MASH1_Instancer_84
+    2300268: Chain04Shape_MASH1_Instancer_85
+    2300270: Chain04Shape_MASH1_Instancer_86
+    2300272: Chain04Shape_MASH1_Instancer_87
+    2300274: Chain04Shape_MASH1_Instancer_88
+    2300276: Chain04Shape_MASH1_Instancer_89
+    2300278: Chain04Shape_MASH1_Instancer_9
+    2300280: Chain04Shape_MASH1_Instancer_90
+    2300282: Chain04Shape_MASH1_Instancer_91
+    2300284: Chain04Shape_MASH1_Instancer_92
+    2300286: Chain04Shape_MASH1_Instancer_93
+    2300288: Chain04Shape_MASH1_Instancer_94
+    2300290: Chain04Shape_MASH1_Instancer_95
+    2300292: Chain04Shape_MASH1_Instancer_96
+    2300294: Chain04Shape_MASH1_Instancer_97
+    2300296: Chain04Shape_MASH1_Instancer_98
+    2300298: Chain04Shape_MASH1_Instancer_99
+    2300300: Chair 3
+    2300302: column_metal
+    2300304: column_metal2
+    2300306: counter
+    2300308: Cover_
+    2300310: Cover_motor
+    2300312: Detail
+    2300314: Detail1
+    2300316: Diffuse
+    2300318: Door
+    2300320: Door 1
+    2300322: Dowen
+    2300324: etoile
+    2300326: etoile 1
+    2300328: Frenage
+    2300330: Front_lamp_Leeft
+    2300332: Front_lamp_Right
+    2300334: Glass 1
+    2300336: Glass1
+    2300338: Glass2
+    2300340: Grid
+    2300342: Holes
+    2300344: L_Exhaust
+    2300346: L_Hand_gun
+    2300348: lamp1_1
+    2300350: lamp1_5
+    2300352: lamp1_5 1
+    2300354: lamp1_6
+    2300356: lamp_detail
+    2300358: lamp_detail 1
+    2300360: Metal
+    2300362: Metal_and_leather
+    2300364: Metal_for_cylinder
+    2300366: Metal_for_cylinder 1
+    2300368: metal_forchair 1
+    2300370: metal_forchair 2
+    2300372: Metal_front
+    2300374: Metalforwhell
+    2300376: Mirro
+    2300378: Next_motor
+    2300380: Next_motor1
+    2300382: pCube10
+    2300384: pCube6
+    2300386: pCube6 1
+    2300388: pCube6 3
+    2300390: pCube7
+    2300392: pCube7 1
+    2300394: pCube7 2
+    2300396: pCube7 3
+    2300398: pCube8
+    2300400: pCube8 1
+    2300402: pCube8 2
+    2300404: pCube8 3
+    2300406: pCube9 1
+    2300408: pCube9 2
+    2300410: pCube9 3
+    2300412: pCylinder100
+    2300414: pCylinder101
+    2300416: pCylinder102
+    2300418: pCylinder11
+    2300420: pCylinder14
+    2300422: pCylinder19
+    2300424: pCylinder23
+    2300426: pCylinder23 1
+    2300428: pCylinder27
+    2300430: pCylinder29
+    2300432: pCylinder34
+    2300434: pCylinder35
+    2300436: pCylinder36
+    2300438: pCylinder42
+    2300440: pCylinder43
+    2300442: pCylinder44
+    2300444: pCylinder45
+    2300446: pCylinder49
+    2300448: pCylinder49 1
+    2300450: pCylinder52
+    2300452: pCylinder53
+    2300454: pCylinder54
+    2300456: pCylinder56
+    2300458: pCylinder56 1
+    2300460: pCylinder59
+    2300462: pCylinder59 1
+    2300464: pCylinder60
+    2300466: pCylinder61
+    2300468: pCylinder62
+    2300470: pCylinder63
+    2300472: pCylinder64
+    2300474: pCylinder65
+    2300476: pCylinder66
+    2300478: pCylinder67
+    2300480: pCylinder68
+    2300482: pCylinder69
+    2300484: pCylinder70
+    2300486: pCylinder74
+    2300488: pCylinder74 1
+    2300490: pCylinder74 2
+    2300492: pCylinder74 3
+    2300494: pCylinder75
+    2300496: pCylinder75 1
+    2300498: pCylinder75 2
+    2300500: pCylinder75 3
+    2300502: pCylinder76
+    2300504: pCylinder76 1
+    2300506: pCylinder76 2
+    2300508: pCylinder76 3
+    2300510: pCylinder77
+    2300512: pCylinder77 1
+    2300514: pCylinder77 2
+    2300516: pCylinder77 3
+    2300518: pCylinder78
+    2300520: pCylinder78 1
+    2300522: pCylinder78 2
+    2300524: pCylinder78 3
+    2300526: pCylinder80
+    2300528: pCylinder80 1
+    2300530: pCylinder80 2
+    2300532: pCylinder80 3
+    2300534: pCylinder81
+    2300536: pCylinder82
+    2300538: pCylinder83
+    2300540: pCylinder84
+    2300542: pCylinder84 1
+    2300544: pCylinder85
+    2300546: pCylinder85 1
+    2300548: pCylinder86
+    2300550: pCylinder86 1
+    2300552: pCylinder90
+    2300554: pCylinder91
+    2300556: pCylinder92
+    2300558: pCylinder93
+    2300560: pCylinder94
+    2300562: pCylinder98
+    2300564: pCylinder99
+    2300566: "pCylinder\xE7low"
+    2300568: "pCylinder\xE7low 1"
+    2300570: pHelix1
+    2300572: pHelix1 1
+    2300574: pHelix1 2
+    2300576: pHelix1 3
+    2300578: Plas
+    2300580: Plastic_back
+    2300582: Plastic_front
+    2300584: polySurface2
+    2300586: polySurface3
+    2300588: polySurface33337
+    2300590: polySurface33337 1
+    2300592: polySurface33338
+    2300594: polySurface33338 1
+    2300596: polySurface33339
+    2300598: polySurface33340
+    2300600: polySurface33346
+    2300602: polySurface33346 1
+    2300604: polySurface33351
+    2300606: polySurface33359
+    2300608: polySurface33359 1
+    2300610: polySurface33360
+    2300612: polySurface33360 1
+    2300614: polySurface33364
+    2300616: polySurface33365
+    2300618: polySurface33367
+    2300620: polySurface33369
+    2300622: polySurface33369 1
+    2300624: polySurface33372
+    2300626: polySurface33372 1
+    2300628: polySurface33385
+    2300630: polySurface33385 1
+    2300632: polySurface33386
+    2300634: polySurface33387
+    2300636: polySurface33388
+    2300638: polySurface33388 1
+    2300640: polySurface33397
+    2300642: polySurface33397 1
+    2300644: polySurface33398
+    2300646: polySurface33398 1
+    2300648: polySurface33402
+    2300650: polySurface33402 1
+    2300652: polySurface33413
+    2300654: polySurface33414
+    2300656: polySurface33414 1
+    2300658: polySurface33415
+    2300660: polySurface33416
+    2300662: polySurface33416 1
+    2300664: polySurface33417
+    2300666: polySurface33419
+    2300668: polySurface33420
+    2300670: polySurface33423
+    2300672: polySurface33424
+    2300674: polySurface33425
+    2300676: polySurface33426
+    2300678: polySurface33427
+    2300680: polySurface33428
+    2300682: polySurface33429
+    2300684: polySurface33454
+    2300686: polySurface33454 1
+    2300688: polySurface33457
+    2300690: polySurface33457 1
+    2300692: polySurface33459
+    2300694: polySurface33465
+    2300696: polySurface33466
+    2300698: PolySurface33479_00001____
+    2300700: PolySurface33479_00001____ 1
+    2300702: PolySurface33479_00001____ 2
+    2300704: PolySurface33479_00001____ 3
+    2300706: PolySurface33479_00001____4
+    2300708: PolySurface33479_00001____4 1
+    2300710: PolySurface33479_00001____4 2
+    2300712: PolySurface33479_00001____4 3
+    2300714: PolySurface33479_00001____5
+    2300716: PolySurface33479_00001____5 1
+    2300718: PolySurface33479_00001____5 2
+    2300720: PolySurface33479_00001____5 3
+    2300722: PolySurface33479_00001____6
+    2300724: PolySurface33479_00001____6 1
+    2300726: PolySurface33479_00001____6 2
+    2300728: PolySurface33479_00001____6 3
+    2300730: PolySurface33479_00001____7
+    2300732: PolySurface33479_00001____7 1
+    2300734: PolySurface33479_00001____8
+    2300736: PolySurface33479_00001____9
+    2300738: polySurface33490
+    2300740: polySurface33492
+    2300742: polySurface33504
+    2300744: polySurface33505
+    2300746: polySurface33506
+    2300748: polySurface33508
+    2300750: polySurface33511
+    2300752: polySurface33512
+    2300754: pPipe3
+    2300756: pPipe3 1
+    2300758: pPipe3 2
+    2300760: pPipe3 3
+    2300762: pPipe8
+    2300764: pSphere1
+    2300766: pSphere1 1
+    2300768: pSphere1 2
+    2300770: pSphere1 3
+    2300772: pSphere2
+    2300774: pSphere3
+    2300776: pSphere4
+    2300778: pSphere5
+    2300780: pSphere5 1
+    2300782: pTorus17
+    2300784: pTorus17 1
+    2300786: pTorus17 2
+    2300788: pTorus17 3
+    2300790: pTorus18
+    2300792: pTorus19
+    2300794: pTorus20
+    2300796: pTorus21
+    2300798: pTorus22
+    2300800: pTorus23
+    2300802: R_Exhaust
+    2300804: R_Hand_gun
+    2300806: Radio_Texture
+    2300808: Rope 1
+    2300810: small_window
+    2300812: small_window1
+    2300814: Speed_texture
+    2300816: Steering_wheel 1
+    2300818: Support
+    2300820: Tapis1
+    2300822: Tapis2
+    2300824: Temp
+    2300826: Temperuture_text
+    2300828: Thingbehind_lamps
+    2300830: thingundercar
+    2300832: Under_car
+    2300834: upper
+    2300836: Volume
+    2300838: Volume1
+    3300000: Acceletor 1
+    3300002: Ambriage
+    3300004: Back 1
+    3300006: Base_Plastic
+    3300008: Behind_thecar
+    3300010: Biiip
+    3300012: BUtton
+    3300014: Chain04Shape_MASH1_Instancer_0
+    3300016: Chain04Shape_MASH1_Instancer_1
+    3300018: Chain04Shape_MASH1_Instancer_10
+    3300020: Chain04Shape_MASH1_Instancer_100
+    3300022: Chain04Shape_MASH1_Instancer_101
+    3300024: Chain04Shape_MASH1_Instancer_102
+    3300026: Chain04Shape_MASH1_Instancer_103
+    3300028: Chain04Shape_MASH1_Instancer_104
+    3300030: Chain04Shape_MASH1_Instancer_105
+    3300032: Chain04Shape_MASH1_Instancer_106
+    3300034: Chain04Shape_MASH1_Instancer_107
+    3300036: Chain04Shape_MASH1_Instancer_108
+    3300038: Chain04Shape_MASH1_Instancer_109
+    3300040: Chain04Shape_MASH1_Instancer_11
+    3300042: Chain04Shape_MASH1_Instancer_110
+    3300044: Chain04Shape_MASH1_Instancer_111
+    3300046: Chain04Shape_MASH1_Instancer_112
+    3300048: Chain04Shape_MASH1_Instancer_113
+    3300050: Chain04Shape_MASH1_Instancer_114
+    3300052: Chain04Shape_MASH1_Instancer_115
+    3300054: Chain04Shape_MASH1_Instancer_116
+    3300056: Chain04Shape_MASH1_Instancer_117
+    3300058: Chain04Shape_MASH1_Instancer_118
+    3300060: Chain04Shape_MASH1_Instancer_119
+    3300062: Chain04Shape_MASH1_Instancer_12
+    3300064: Chain04Shape_MASH1_Instancer_120
+    3300066: Chain04Shape_MASH1_Instancer_121
+    3300068: Chain04Shape_MASH1_Instancer_122
+    3300070: Chain04Shape_MASH1_Instancer_123
+    3300072: Chain04Shape_MASH1_Instancer_124
+    3300074: Chain04Shape_MASH1_Instancer_125
+    3300076: Chain04Shape_MASH1_Instancer_126
+    3300078: Chain04Shape_MASH1_Instancer_127
+    3300080: Chain04Shape_MASH1_Instancer_128
+    3300082: Chain04Shape_MASH1_Instancer_129
+    3300084: Chain04Shape_MASH1_Instancer_13
+    3300086: Chain04Shape_MASH1_Instancer_130
+    3300088: Chain04Shape_MASH1_Instancer_131
+    3300090: Chain04Shape_MASH1_Instancer_132
+    3300092: Chain04Shape_MASH1_Instancer_133
+    3300094: Chain04Shape_MASH1_Instancer_134
+    3300096: Chain04Shape_MASH1_Instancer_135
+    3300098: Chain04Shape_MASH1_Instancer_136
+    3300100: Chain04Shape_MASH1_Instancer_137
+    3300102: Chain04Shape_MASH1_Instancer_138
+    3300104: Chain04Shape_MASH1_Instancer_139
+    3300106: Chain04Shape_MASH1_Instancer_14
+    3300108: Chain04Shape_MASH1_Instancer_140
+    3300110: Chain04Shape_MASH1_Instancer_141
+    3300112: Chain04Shape_MASH1_Instancer_142
+    3300114: Chain04Shape_MASH1_Instancer_15
+    3300116: Chain04Shape_MASH1_Instancer_16
+    3300118: Chain04Shape_MASH1_Instancer_17
+    3300120: Chain04Shape_MASH1_Instancer_18
+    3300122: Chain04Shape_MASH1_Instancer_19
+    3300124: Chain04Shape_MASH1_Instancer_2
+    3300126: Chain04Shape_MASH1_Instancer_20
+    3300128: Chain04Shape_MASH1_Instancer_21
+    3300130: Chain04Shape_MASH1_Instancer_22
+    3300132: Chain04Shape_MASH1_Instancer_23
+    3300134: Chain04Shape_MASH1_Instancer_24
+    3300136: Chain04Shape_MASH1_Instancer_25
+    3300138: Chain04Shape_MASH1_Instancer_26
+    3300140: Chain04Shape_MASH1_Instancer_27
+    3300142: Chain04Shape_MASH1_Instancer_28
+    3300144: Chain04Shape_MASH1_Instancer_29
+    3300146: Chain04Shape_MASH1_Instancer_3
+    3300148: Chain04Shape_MASH1_Instancer_30
+    3300150: Chain04Shape_MASH1_Instancer_31
+    3300152: Chain04Shape_MASH1_Instancer_32
+    3300154: Chain04Shape_MASH1_Instancer_33
+    3300156: Chain04Shape_MASH1_Instancer_34
+    3300158: Chain04Shape_MASH1_Instancer_35
+    3300160: Chain04Shape_MASH1_Instancer_36
+    3300162: Chain04Shape_MASH1_Instancer_37
+    3300164: Chain04Shape_MASH1_Instancer_38
+    3300166: Chain04Shape_MASH1_Instancer_39
+    3300168: Chain04Shape_MASH1_Instancer_4
+    3300170: Chain04Shape_MASH1_Instancer_40
+    3300172: Chain04Shape_MASH1_Instancer_41
+    3300174: Chain04Shape_MASH1_Instancer_42
+    3300176: Chain04Shape_MASH1_Instancer_43
+    3300178: Chain04Shape_MASH1_Instancer_44
+    3300180: Chain04Shape_MASH1_Instancer_45
+    3300182: Chain04Shape_MASH1_Instancer_46
+    3300184: Chain04Shape_MASH1_Instancer_47
+    3300186: Chain04Shape_MASH1_Instancer_48
+    3300188: Chain04Shape_MASH1_Instancer_49
+    3300190: Chain04Shape_MASH1_Instancer_5
+    3300192: Chain04Shape_MASH1_Instancer_50
+    3300194: Chain04Shape_MASH1_Instancer_51
+    3300196: Chain04Shape_MASH1_Instancer_52
+    3300198: Chain04Shape_MASH1_Instancer_53
+    3300200: Chain04Shape_MASH1_Instancer_54
+    3300202: Chain04Shape_MASH1_Instancer_55
+    3300204: Chain04Shape_MASH1_Instancer_56
+    3300206: Chain04Shape_MASH1_Instancer_57
+    3300208: Chain04Shape_MASH1_Instancer_58
+    3300210: Chain04Shape_MASH1_Instancer_59
+    3300212: Chain04Shape_MASH1_Instancer_6
+    3300214: Chain04Shape_MASH1_Instancer_60
+    3300216: Chain04Shape_MASH1_Instancer_61
+    3300218: Chain04Shape_MASH1_Instancer_62
+    3300220: Chain04Shape_MASH1_Instancer_63
+    3300222: Chain04Shape_MASH1_Instancer_64
+    3300224: Chain04Shape_MASH1_Instancer_65
+    3300226: Chain04Shape_MASH1_Instancer_66
+    3300228: Chain04Shape_MASH1_Instancer_67
+    3300230: Chain04Shape_MASH1_Instancer_68
+    3300232: Chain04Shape_MASH1_Instancer_69
+    3300234: Chain04Shape_MASH1_Instancer_7
+    3300236: Chain04Shape_MASH1_Instancer_70
+    3300238: Chain04Shape_MASH1_Instancer_71
+    3300240: Chain04Shape_MASH1_Instancer_72
+    3300242: Chain04Shape_MASH1_Instancer_73
+    3300244: Chain04Shape_MASH1_Instancer_74
+    3300246: Chain04Shape_MASH1_Instancer_75
+    3300248: Chain04Shape_MASH1_Instancer_76
+    3300250: Chain04Shape_MASH1_Instancer_77
+    3300252: Chain04Shape_MASH1_Instancer_78
+    3300254: Chain04Shape_MASH1_Instancer_79
+    3300256: Chain04Shape_MASH1_Instancer_8
+    3300258: Chain04Shape_MASH1_Instancer_80
+    3300260: Chain04Shape_MASH1_Instancer_81
+    3300262: Chain04Shape_MASH1_Instancer_82
+    3300264: Chain04Shape_MASH1_Instancer_83
+    3300266: Chain04Shape_MASH1_Instancer_84
+    3300268: Chain04Shape_MASH1_Instancer_85
+    3300270: Chain04Shape_MASH1_Instancer_86
+    3300272: Chain04Shape_MASH1_Instancer_87
+    3300274: Chain04Shape_MASH1_Instancer_88
+    3300276: Chain04Shape_MASH1_Instancer_89
+    3300278: Chain04Shape_MASH1_Instancer_9
+    3300280: Chain04Shape_MASH1_Instancer_90
+    3300282: Chain04Shape_MASH1_Instancer_91
+    3300284: Chain04Shape_MASH1_Instancer_92
+    3300286: Chain04Shape_MASH1_Instancer_93
+    3300288: Chain04Shape_MASH1_Instancer_94
+    3300290: Chain04Shape_MASH1_Instancer_95
+    3300292: Chain04Shape_MASH1_Instancer_96
+    3300294: Chain04Shape_MASH1_Instancer_97
+    3300296: Chain04Shape_MASH1_Instancer_98
+    3300298: Chain04Shape_MASH1_Instancer_99
+    3300300: Chair 3
+    3300302: column_metal
+    3300304: column_metal2
+    3300306: counter
+    3300308: Cover_
+    3300310: Cover_motor
+    3300312: Detail
+    3300314: Detail1
+    3300316: Diffuse
+    3300318: Door
+    3300320: Door 1
+    3300322: Dowen
+    3300324: etoile
+    3300326: etoile 1
+    3300328: Frenage
+    3300330: Front_lamp_Leeft
+    3300332: Front_lamp_Right
+    3300334: Glass 1
+    3300336: Glass1
+    3300338: Glass2
+    3300340: Grid
+    3300342: Holes
+    3300344: L_Exhaust
+    3300346: L_Hand_gun
+    3300348: lamp1_1
+    3300350: lamp1_5
+    3300352: lamp1_5 1
+    3300354: lamp1_6
+    3300356: lamp_detail
+    3300358: lamp_detail 1
+    3300360: Metal
+    3300362: Metal_and_leather
+    3300364: Metal_for_cylinder
+    3300366: Metal_for_cylinder 1
+    3300368: metal_forchair 1
+    3300370: metal_forchair 2
+    3300372: Metal_front
+    3300374: Metalforwhell
+    3300376: Mirro
+    3300378: Next_motor
+    3300380: Next_motor1
+    3300382: pCube10
+    3300384: pCube6
+    3300386: pCube6 1
+    3300388: pCube6 3
+    3300390: pCube7
+    3300392: pCube7 1
+    3300394: pCube7 2
+    3300396: pCube7 3
+    3300398: pCube8
+    3300400: pCube8 1
+    3300402: pCube8 2
+    3300404: pCube8 3
+    3300406: pCube9 1
+    3300408: pCube9 2
+    3300410: pCube9 3
+    3300412: pCylinder100
+    3300414: pCylinder101
+    3300416: pCylinder102
+    3300418: pCylinder11
+    3300420: pCylinder14
+    3300422: pCylinder19
+    3300424: pCylinder23
+    3300426: pCylinder23 1
+    3300428: pCylinder27
+    3300430: pCylinder29
+    3300432: pCylinder34
+    3300434: pCylinder35
+    3300436: pCylinder36
+    3300438: pCylinder42
+    3300440: pCylinder43
+    3300442: pCylinder44
+    3300444: pCylinder45
+    3300446: pCylinder49
+    3300448: pCylinder49 1
+    3300450: pCylinder52
+    3300452: pCylinder53
+    3300454: pCylinder54
+    3300456: pCylinder56
+    3300458: pCylinder56 1
+    3300460: pCylinder59
+    3300462: pCylinder59 1
+    3300464: pCylinder60
+    3300466: pCylinder61
+    3300468: pCylinder62
+    3300470: pCylinder63
+    3300472: pCylinder64
+    3300474: pCylinder65
+    3300476: pCylinder66
+    3300478: pCylinder67
+    3300480: pCylinder68
+    3300482: pCylinder69
+    3300484: pCylinder70
+    3300486: pCylinder74
+    3300488: pCylinder74 1
+    3300490: pCylinder74 2
+    3300492: pCylinder74 3
+    3300494: pCylinder75
+    3300496: pCylinder75 1
+    3300498: pCylinder75 2
+    3300500: pCylinder75 3
+    3300502: pCylinder76
+    3300504: pCylinder76 1
+    3300506: pCylinder76 2
+    3300508: pCylinder76 3
+    3300510: pCylinder77
+    3300512: pCylinder77 1
+    3300514: pCylinder77 2
+    3300516: pCylinder77 3
+    3300518: pCylinder78
+    3300520: pCylinder78 1
+    3300522: pCylinder78 2
+    3300524: pCylinder78 3
+    3300526: pCylinder80
+    3300528: pCylinder80 1
+    3300530: pCylinder80 2
+    3300532: pCylinder80 3
+    3300534: pCylinder81
+    3300536: pCylinder82
+    3300538: pCylinder83
+    3300540: pCylinder84
+    3300542: pCylinder84 1
+    3300544: pCylinder85
+    3300546: pCylinder85 1
+    3300548: pCylinder86
+    3300550: pCylinder86 1
+    3300552: pCylinder90
+    3300554: pCylinder91
+    3300556: pCylinder92
+    3300558: pCylinder93
+    3300560: pCylinder94
+    3300562: pCylinder98
+    3300564: pCylinder99
+    3300566: "pCylinder\xE7low"
+    3300568: "pCylinder\xE7low 1"
+    3300570: pHelix1
+    3300572: pHelix1 1
+    3300574: pHelix1 2
+    3300576: pHelix1 3
+    3300578: Plas
+    3300580: Plastic_back
+    3300582: Plastic_front
+    3300584: polySurface2
+    3300586: polySurface3
+    3300588: polySurface33337
+    3300590: polySurface33337 1
+    3300592: polySurface33338
+    3300594: polySurface33338 1
+    3300596: polySurface33339
+    3300598: polySurface33340
+    3300600: polySurface33346
+    3300602: polySurface33346 1
+    3300604: polySurface33351
+    3300606: polySurface33359
+    3300608: polySurface33359 1
+    3300610: polySurface33360
+    3300612: polySurface33360 1
+    3300614: polySurface33364
+    3300616: polySurface33365
+    3300618: polySurface33367
+    3300620: polySurface33369
+    3300622: polySurface33369 1
+    3300624: polySurface33372
+    3300626: polySurface33372 1
+    3300628: polySurface33385
+    3300630: polySurface33385 1
+    3300632: polySurface33386
+    3300634: polySurface33387
+    3300636: polySurface33388
+    3300638: polySurface33388 1
+    3300640: polySurface33397
+    3300642: polySurface33397 1
+    3300644: polySurface33398
+    3300646: polySurface33398 1
+    3300648: polySurface33402
+    3300650: polySurface33402 1
+    3300652: polySurface33413
+    3300654: polySurface33414
+    3300656: polySurface33414 1
+    3300658: polySurface33415
+    3300660: polySurface33416
+    3300662: polySurface33416 1
+    3300664: polySurface33417
+    3300666: polySurface33419
+    3300668: polySurface33420
+    3300670: polySurface33423
+    3300672: polySurface33424
+    3300674: polySurface33425
+    3300676: polySurface33426
+    3300678: polySurface33427
+    3300680: polySurface33428
+    3300682: polySurface33429
+    3300684: polySurface33454
+    3300686: polySurface33454 1
+    3300688: polySurface33457
+    3300690: polySurface33457 1
+    3300692: polySurface33459
+    3300694: polySurface33465
+    3300696: polySurface33466
+    3300698: PolySurface33479_00001____
+    3300700: PolySurface33479_00001____ 1
+    3300702: PolySurface33479_00001____ 2
+    3300704: PolySurface33479_00001____ 3
+    3300706: PolySurface33479_00001____4
+    3300708: PolySurface33479_00001____4 1
+    3300710: PolySurface33479_00001____4 2
+    3300712: PolySurface33479_00001____4 3
+    3300714: PolySurface33479_00001____5
+    3300716: PolySurface33479_00001____5 1
+    3300718: PolySurface33479_00001____5 2
+    3300720: PolySurface33479_00001____5 3
+    3300722: PolySurface33479_00001____6
+    3300724: PolySurface33479_00001____6 1
+    3300726: PolySurface33479_00001____6 2
+    3300728: PolySurface33479_00001____6 3
+    3300730: PolySurface33479_00001____7
+    3300732: PolySurface33479_00001____7 1
+    3300734: PolySurface33479_00001____8
+    3300736: PolySurface33479_00001____9
+    3300738: polySurface33490
+    3300740: polySurface33492
+    3300742: polySurface33504
+    3300744: polySurface33505
+    3300746: polySurface33506
+    3300748: polySurface33508
+    3300750: polySurface33511
+    3300752: polySurface33512
+    3300754: pPipe3
+    3300756: pPipe3 1
+    3300758: pPipe3 2
+    3300760: pPipe3 3
+    3300762: pPipe8
+    3300764: pSphere1
+    3300766: pSphere1 1
+    3300768: pSphere1 2
+    3300770: pSphere1 3
+    3300772: pSphere2
+    3300774: pSphere3
+    3300776: pSphere4
+    3300778: pSphere5
+    3300780: pSphere5 1
+    3300782: pTorus17
+    3300784: pTorus17 1
+    3300786: pTorus17 2
+    3300788: pTorus17 3
+    3300790: pTorus18
+    3300792: pTorus19
+    3300794: pTorus20
+    3300796: pTorus21
+    3300798: pTorus22
+    3300800: pTorus23
+    3300802: R_Exhaust
+    3300804: R_Hand_gun
+    3300806: Radio_Texture
+    3300808: Rope 1
+    3300810: small_window
+    3300812: small_window1
+    3300814: Speed_texture
+    3300816: Steering_wheel 1
+    3300818: Support
+    3300820: Tapis1
+    3300822: Tapis2
+    3300824: Temp
+    3300826: Temperuture_text
+    3300828: Thingbehind_lamps
+    3300830: thingundercar
+    3300832: Under_car
+    3300834: upper
+    3300836: Volume
+    3300838: Volume1
+    4300000: pCylinder80
+    4300002: pHelix1
+    4300004: pCylinder78
+    4300006: pCylinder77
+    4300008: pCylinder76
+    4300010: pCylinder75
+    4300012: pCylinder74
+    4300014: PolySurface33479_00001____8
+    4300016: pSphere1
+    4300018: "pCylinder\xE7low"
+    4300020: pPipe3
+    4300022: pTorus17
+    4300024: PolySurface33479_00001____4
+    4300026: PolySurface33479_00001____
+    4300028: PolySurface33479_00001____5
+    4300030: PolySurface33479_00001____6
+    4300032: pCylinder80
+    4300034: pHelix1
+    4300036: pCylinder78
+    4300038: pCylinder77
+    4300040: pCylinder76
+    4300042: pCylinder75
+    4300044: pCylinder74
+    4300046: PolySurface33479_00001____7
+    4300048: pSphere1
+    4300050: "pCylinder\xE7low"
+    4300052: pPipe3
+    4300054: pTorus17
+    4300056: PolySurface33479_00001____4
+    4300058: PolySurface33479_00001____
+    4300060: PolySurface33479_00001____5
+    4300062: PolySurface33479_00001____6
+    4300064: pCylinder80
+    4300066: pHelix1
+    4300068: pCylinder78
+    4300070: pCylinder77
+    4300072: pCylinder76
+    4300074: pCylinder75
+    4300076: pCylinder74
+    4300078: pSphere1
+    4300080: PolySurface33479_00001____9
+    4300082: pPipe3
+    4300084: etoile
+    4300086: pTorus17
+    4300088: PolySurface33479_00001____4
+    4300090: PolySurface33479_00001____
+    4300092: PolySurface33479_00001____5
+    4300094: PolySurface33479_00001____6
+    4300096: pCylinder80
+    4300098: pHelix1
+    4300100: pCylinder78
+    4300102: pCylinder77
+    4300104: pCylinder76
+    4300106: pCylinder75
+    4300108: pCylinder74
+    4300110: PolySurface33479_00001____7
+    4300112: pSphere1
+    4300114: pTorus17
+    4300116: etoile
+    4300118: pPipe3
+    4300120: PolySurface33479_00001____4
+    4300122: PolySurface33479_00001____
+    4300124: PolySurface33479_00001____5
+    4300126: PolySurface33479_00001____6
+    4300128: Front_lamp_Right
+    4300130: Front_lamp_Leeft
+    4300132: lamp1_5
+    4300134: lamp1_6
+    4300136: lamp1_1
+    4300138: lamp1_5
+    4300140: Grid
+    4300142: polySurface33364
+    4300144: polySurface33365
+    4300146: polySurface33340
+    4300148: polySurface33339
+    4300150: pCylinder54
+    4300152: pCylinder53
+    4300154: pCylinder52
+    4300156: pCylinder19
+    4300158: pCylinder83
+    4300160: Metal_and_leather
+    4300162: Detail
+    4300164: counter
+    4300166: Detail1
+    4300168: Cover_
+    4300170: Temp
+    4300172: Volume1
+    4300174: Volume
+    4300176: Steering_wheel
+    4300178: Biiip
+    4300180: pCylinder94
+    4300182: Base_Plastic
+    4300184: Speed_texture
+    4300186: Temperuture_text
+    4300188: Radio_Texture
+    4300190: Glass1
+    4300192: Glass
+    4300194: Glass2
+    4300196: Tapis1
+    4300198: polySurface33346
+    4300200: polySurface33346
+    4300202: polySurface33413
+    4300204: polySurface33351
+    4300206: Ambriage
+    4300208: Acceletor
+    4300210: Frenage
+    4300212: Tapis2
+    4300214: polySurface33386
+    4300216: polySurface33387
+    4300218: polySurface33429
+    4300220: polySurface33428
+    4300222: polySurface33415
+    4300224: polySurface33417
+    4300226: Back
+    4300228: Support
+    4300230: Plas
+    4300232: Mirro
+    4300234: Rope
+    4300236: Diffuse
+    4300238: polySurface33359
+    4300240: polySurface33388
+    4300242: polySurface33397
+    4300244: polySurface33398
+    4300246: pCylinder45
+    4300248: pCylinder44
+    4300250: polySurface33359
+    4300252: polySurface33388
+    4300254: polySurface33397
+    4300256: polySurface33398
+    4300258: pCylinder82
+    4300260: pCylinder81
+    4300262: polySurface33504
+    4300264: polySurface33465
+    4300266: polySurface33466
+    4300268: polySurface33490
+    4300270: pCube8
+    4300272: pCube7
+    4300274: pCube6
+    4300276: pCube9
+    4300278: pCube8
+    4300280: pCube7
+    4300282: pCube6
+    4300284: pCube9
+    4300286: pCube8
+    4300288: pCube7
+    4300290: pCube6
+    4300292: pCube9
+    4300294: pCube8
+    4300296: pCube7
+    4300298: polySurface33492
+    4300300: column_metal2
+    4300302: column_metal
+    4300304: Metal_front
+    4300306: polySurface33425
+    4300308: polySurface33426
+    4300310: Behind_thecar
+    4300312: R_Exhaust
+    4300314: L_Exhaust
+    4300316: thingundercar
+    4300318: Plastic_back
+    4300320: Plastic_front
+    4300322: small_window
+    4300324: small_window1
+    4300326: polySurface33367
+    4300328: polySurface33427
+    4300330: polySurface33416
+    4300332: polySurface33414
+    4300334: polySurface33369
+    4300336: polySurface33372
+    4300338: polySurface33360
+    4300340: polySurface33402
+    4300342: Door
+    4300344: pSphere5
+    4300346: polySurface33385
+    4300348: pCylinder23
+    4300350: pCylinder49
+    4300352: pCylinder56
+    4300354: pCylinder84
+    4300356: pCylinder85
+    4300358: pCylinder86
+    4300360: polySurface33419
+    4300362: polySurface33420
+    4300364: polySurface33338
+    4300366: polySurface33337
+    4300368: polySurface33416
+    4300370: polySurface33414
+    4300372: polySurface33369
+    4300374: polySurface33372
+    4300376: polySurface33360
+    4300378: polySurface33402
+    4300380: Door
+    4300382: pSphere5
+    4300384: polySurface33385
+    4300386: pCylinder23
+    4300388: pCylinder49
+    4300390: pCylinder56
+    4300392: pCylinder84
+    4300394: pCylinder85
+    4300396: pCylinder86
+    4300398: polySurface33338
+    4300400: polySurface33337
+    4300402: polySurface33424
+    4300404: polySurface33423
+    4300406: pTorus18
+    4300408: pTorus19
+    4300410: pTorus20
+    4300412: pTorus21
+    4300414: pTorus22
+    4300416: pTorus23
+    4300418: Next_motor1
+    4300420: Holes
+    4300422: polySurface33505
+    4300424: polySurface33506
+    4300426: Cover_motor
+    4300428: Metalforwhell
+    4300430: Next_motor
+    4300432: pPipe8
+    4300434: Chain04Shape_MASH1_Instancer_0
+    4300436: Chain04Shape_MASH1_Instancer_1
+    4300438: Chain04Shape_MASH1_Instancer_2
+    4300440: Chain04Shape_MASH1_Instancer_3
+    4300442: Chain04Shape_MASH1_Instancer_4
+    4300444: Chain04Shape_MASH1_Instancer_5
+    4300446: Chain04Shape_MASH1_Instancer_6
+    4300448: Chain04Shape_MASH1_Instancer_7
+    4300450: Chain04Shape_MASH1_Instancer_8
+    4300452: Chain04Shape_MASH1_Instancer_9
+    4300454: Chain04Shape_MASH1_Instancer_10
+    4300456: Chain04Shape_MASH1_Instancer_11
+    4300458: Chain04Shape_MASH1_Instancer_12
+    4300460: Chain04Shape_MASH1_Instancer_13
+    4300462: Chain04Shape_MASH1_Instancer_14
+    4300464: Chain04Shape_MASH1_Instancer_15
+    4300466: Chain04Shape_MASH1_Instancer_16
+    4300468: Chain04Shape_MASH1_Instancer_17
+    4300470: Chain04Shape_MASH1_Instancer_18
+    4300472: Chain04Shape_MASH1_Instancer_19
+    4300474: Chain04Shape_MASH1_Instancer_20
+    4300476: Chain04Shape_MASH1_Instancer_21
+    4300478: Chain04Shape_MASH1_Instancer_22
+    4300480: Chain04Shape_MASH1_Instancer_23
+    4300482: Chain04Shape_MASH1_Instancer_24
+    4300484: Chain04Shape_MASH1_Instancer_25
+    4300486: Chain04Shape_MASH1_Instancer_26
+    4300488: Chain04Shape_MASH1_Instancer_27
+    4300490: Chain04Shape_MASH1_Instancer_28
+    4300492: Chain04Shape_MASH1_Instancer_29
+    4300494: Chain04Shape_MASH1_Instancer_30
+    4300496: Chain04Shape_MASH1_Instancer_31
+    4300498: Chain04Shape_MASH1_Instancer_32
+    4300500: Chain04Shape_MASH1_Instancer_33
+    4300502: Chain04Shape_MASH1_Instancer_34
+    4300504: Chain04Shape_MASH1_Instancer_35
+    4300506: Chain04Shape_MASH1_Instancer_36
+    4300508: Chain04Shape_MASH1_Instancer_37
+    4300510: Chain04Shape_MASH1_Instancer_38
+    4300512: Chain04Shape_MASH1_Instancer_39
+    4300514: Chain04Shape_MASH1_Instancer_40
+    4300516: Chain04Shape_MASH1_Instancer_41
+    4300518: Chain04Shape_MASH1_Instancer_42
+    4300520: Chain04Shape_MASH1_Instancer_43
+    4300522: Chain04Shape_MASH1_Instancer_44
+    4300524: Chain04Shape_MASH1_Instancer_45
+    4300526: Chain04Shape_MASH1_Instancer_46
+    4300528: Chain04Shape_MASH1_Instancer_47
+    4300530: Chain04Shape_MASH1_Instancer_48
+    4300532: Chain04Shape_MASH1_Instancer_49
+    4300534: Chain04Shape_MASH1_Instancer_50
+    4300536: Chain04Shape_MASH1_Instancer_51
+    4300538: Chain04Shape_MASH1_Instancer_52
+    4300540: Chain04Shape_MASH1_Instancer_53
+    4300542: Chain04Shape_MASH1_Instancer_54
+    4300544: Chain04Shape_MASH1_Instancer_55
+    4300546: Chain04Shape_MASH1_Instancer_56
+    4300548: Chain04Shape_MASH1_Instancer_57
+    4300550: Chain04Shape_MASH1_Instancer_58
+    4300552: Chain04Shape_MASH1_Instancer_59
+    4300554: Chain04Shape_MASH1_Instancer_60
+    4300556: Chain04Shape_MASH1_Instancer_61
+    4300558: Chain04Shape_MASH1_Instancer_62
+    4300560: Chain04Shape_MASH1_Instancer_63
+    4300562: Chain04Shape_MASH1_Instancer_64
+    4300564: Chain04Shape_MASH1_Instancer_65
+    4300566: Chain04Shape_MASH1_Instancer_66
+    4300568: Chain04Shape_MASH1_Instancer_67
+    4300570: Chain04Shape_MASH1_Instancer_68
+    4300572: Chain04Shape_MASH1_Instancer_69
+    4300574: Chain04Shape_MASH1_Instancer_70
+    4300576: Chain04Shape_MASH1_Instancer_71
+    4300578: Chain04Shape_MASH1_Instancer_72
+    4300580: Chain04Shape_MASH1_Instancer_73
+    4300582: Chain04Shape_MASH1_Instancer_74
+    4300584: Chain04Shape_MASH1_Instancer_75
+    4300586: Chain04Shape_MASH1_Instancer_76
+    4300588: Chain04Shape_MASH1_Instancer_77
+    4300590: Chain04Shape_MASH1_Instancer_78
+    4300592: Chain04Shape_MASH1_Instancer_79
+    4300594: Chain04Shape_MASH1_Instancer_80
+    4300596: Chain04Shape_MASH1_Instancer_81
+    4300598: Chain04Shape_MASH1_Instancer_82
+    4300600: Chain04Shape_MASH1_Instancer_83
+    4300602: Chain04Shape_MASH1_Instancer_84
+    4300604: Chain04Shape_MASH1_Instancer_85
+    4300606: Chain04Shape_MASH1_Instancer_86
+    4300608: Chain04Shape_MASH1_Instancer_87
+    4300610: Chain04Shape_MASH1_Instancer_88
+    4300612: Chain04Shape_MASH1_Instancer_89
+    4300614: Chain04Shape_MASH1_Instancer_90
+    4300616: Chain04Shape_MASH1_Instancer_91
+    4300618: Chain04Shape_MASH1_Instancer_92
+    4300620: Chain04Shape_MASH1_Instancer_93
+    4300622: Chain04Shape_MASH1_Instancer_94
+    4300624: Chain04Shape_MASH1_Instancer_95
+    4300626: Chain04Shape_MASH1_Instancer_96
+    4300628: Chain04Shape_MASH1_Instancer_97
+    4300630: Chain04Shape_MASH1_Instancer_98
+    4300632: Chain04Shape_MASH1_Instancer_99
+    4300634: Chain04Shape_MASH1_Instancer_100
+    4300636: Chain04Shape_MASH1_Instancer_101
+    4300638: Chain04Shape_MASH1_Instancer_102
+    4300640: Chain04Shape_MASH1_Instancer_103
+    4300642: Chain04Shape_MASH1_Instancer_104
+    4300644: Chain04Shape_MASH1_Instancer_105
+    4300646: Chain04Shape_MASH1_Instancer_106
+    4300648: Chain04Shape_MASH1_Instancer_107
+    4300650: Chain04Shape_MASH1_Instancer_108
+    4300652: Chain04Shape_MASH1_Instancer_109
+    4300654: Chain04Shape_MASH1_Instancer_110
+    4300656: Chain04Shape_MASH1_Instancer_111
+    4300658: Chain04Shape_MASH1_Instancer_112
+    4300660: Chain04Shape_MASH1_Instancer_113
+    4300662: Chain04Shape_MASH1_Instancer_114
+    4300664: Chain04Shape_MASH1_Instancer_115
+    4300666: Chain04Shape_MASH1_Instancer_116
+    4300668: Chain04Shape_MASH1_Instancer_117
+    4300670: Chain04Shape_MASH1_Instancer_118
+    4300672: Chain04Shape_MASH1_Instancer_119
+    4300674: Chain04Shape_MASH1_Instancer_120
+    4300676: Chain04Shape_MASH1_Instancer_121
+    4300678: Chain04Shape_MASH1_Instancer_122
+    4300680: Chain04Shape_MASH1_Instancer_123
+    4300682: Chain04Shape_MASH1_Instancer_124
+    4300684: Chain04Shape_MASH1_Instancer_125
+    4300686: Chain04Shape_MASH1_Instancer_126
+    4300688: Chain04Shape_MASH1_Instancer_127
+    4300690: Chain04Shape_MASH1_Instancer_128
+    4300692: Chain04Shape_MASH1_Instancer_129
+    4300694: Chain04Shape_MASH1_Instancer_130
+    4300696: Chain04Shape_MASH1_Instancer_131
+    4300698: Chain04Shape_MASH1_Instancer_132
+    4300700: Chain04Shape_MASH1_Instancer_133
+    4300702: Chain04Shape_MASH1_Instancer_134
+    4300704: Chain04Shape_MASH1_Instancer_135
+    4300706: Chain04Shape_MASH1_Instancer_136
+    4300708: Chain04Shape_MASH1_Instancer_137
+    4300710: Chain04Shape_MASH1_Instancer_138
+    4300712: Chain04Shape_MASH1_Instancer_139
+    4300714: Chain04Shape_MASH1_Instancer_140
+    4300716: Chain04Shape_MASH1_Instancer_141
+    4300718: Chain04Shape_MASH1_Instancer_142
+    4300720: Thingbehind_lamps
+    4300722: upper
+    4300724: Dowen
+    4300726: BUtton
+    4300728: lamp_detail
+    4300730: lamp_detail
+    4300732: Metal
+    4300734: pCylinder102
+    4300736: pCylinder101
+    4300738: pCylinder100
+    4300740: pCylinder99
+    4300742: pCylinder98
+    4300744: pCylinder59
+    4300746: pCylinder59
+    4300748: pCylinder27
+    4300750: pCylinder65
+    4300752: pCylinder66
+    4300754: pCylinder29
+    4300756: pCylinder67
+    4300758: pCylinder68
+    4300760: pCylinder69
+    4300762: pCylinder70
+    4300764: pCylinder42
+    4300766: pCylinder36
+    4300768: pCylinder60
+    4300770: pCylinder61
+    4300772: pCylinder62
+    4300774: pCylinder63
+    4300776: pCylinder64
+    4300778: pCylinder34
+    4300780: pCylinder35
+    4300782: pCylinder43
+    4300784: Under_car
+    4300786: pCube10
+    4300788: pCylinder90
+    4300790: pCylinder91
+    4300792: pCylinder92
+    4300794: pCylinder93
+    4300796: Chair
+    4300798: pCylinder11
+    4300800: metal_forchair
+    4300802: metal_forchair
+    4300804: polySurface33454
+    4300806: polySurface33457
+    4300808: polySurface33454
+    4300810: polySurface33457
+    4300812: polySurface33511
+    4300814: polySurface33508
+    4300816: pSphere2
+    4300818: L_Hand_gun
+    4300820: R_Hand_gun
+    4300822: polySurface3
+    4300824: polySurface2
+    4300826: Metal_for_cylinder
+    4300828: Metal_for_cylinder
+    4300830: polySurface33459
+    4300832: polySurface33512
+    4300834: pSphere3
+    4300836: pSphere4
+    4300838: pCylinder14
+    7400000: carshaked
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back4
+    second: {fileID: 2100000, guid: 9ce6ed8043438e14681e98db177e273e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Backand_tapis3
+    second: {fileID: 2100000, guid: 0486a542acfe0294d86aba6b483ba42b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baseand_teath3
+    second: {fileID: 2100000, guid: 290fee32c0c2f104b878169b64b36565, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bord_text7
+    second: {fileID: 2100000, guid: 8a65daf9e38b2d84d93f5fee38895ff1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bord_text8
+    second: {fileID: 2100000, guid: 58100d81b05cb204c99dcd64ef494dbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Detail_for_door3
+    second: {fileID: 2100000, guid: 7abaaac7c01126c49b5be9d211d12fed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Plastic3
+    second: {fileID: 2100000, guid: b57803c6dc5448d4e998224512c4e002, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exhaust_fire_3
+    second: {fileID: 2100000, guid: 5deccd72445609042be7b8f2df2dc18b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fireandplastic4
+    second: {fileID: 2100000, guid: dc52527b82ffc3a48b6c18d85f5d1d60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fireandplastic6
+    second: {fileID: 2100000, guid: 9652bbebb5704f54caf871d77a045aee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fireandplastic7
+    second: {fileID: 2100000, guid: 9652bbebb5704f54caf871d77a045aee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_3
+    second: {fileID: 2100000, guid: 109e4229b995eec48a773ec46cb9a757, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp3
+    second: {fileID: 2100000, guid: 6c856456b418def4f971bc29dbb172f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machine57
+    second: {fileID: 2100000, guid: f0556e2c2f56ece4c9b355558af8f3d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machine60
+    second: {fileID: 2100000, guid: 83c44016bedbc57438197f43cb75d180, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastiqueforglass
+    second: {fileID: 2100000, guid: 2aa48f6582f146644964164ae6181ec5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_for_speed3
+    second: {fileID: 2100000, guid: fa5c386e13fc2784bbbfa0df785848e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheels3
+    second: {fileID: 2100000, guid: 3bcffbdcb02ff7d4993a575d2521b242, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: motor3
+    second: {fileID: 2100000, guid: 83c44016bedbc57438197f43cb75d180, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: newthings3
+    second: {fileID: 2100000, guid: 53bf22ffca8b70f499c4ae0ac001e971, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vise2
+    second: {fileID: 2100000, guid: 1e834ce55c3cecf418bf0c3cd318ab7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vise3
+    second: {fileID: 2100000, guid: 1e834ce55c3cecf418bf0c3cd318ab7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vise_for_machine2
+    second: {fileID: 2100000, guid: 0e82eb829a825b245a4ad022451673d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vise_for_machine3
+    second: {fileID: 2100000, guid: 0e82eb829a825b245a4ad022451673d2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: carshaked
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

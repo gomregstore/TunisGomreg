@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 05dfb4268741697449f87bdbf836dfe4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Animation
+    100002: Car 1
+    100004: Car1
+    100006: DIsc
+    100008: Disc
+    100010: Disc 1
+    100012: Disc 2
+    100014: etoile
+    100016: etoile 1
+    100018: group84911194
+    100020: group84911194 1
+    100022: group84911195
+    100024: group84911195 1
+    100026: L_B_Tire
+    100028: L_B_Tire_
+    100030: L_F_Tire
+    100032: L_F_Tire_
+    100034: pCylinder74
+    100036: pCylinder74 1
+    100038: pCylinder74 2
+    100040: pCylinder74 3
+    100042: pCylinder75
+    100044: pCylinder75 1
+    100046: pCylinder75 2
+    100048: pCylinder75 3
+    100050: pCylinder76
+    100052: pCylinder76 1
+    100054: pCylinder76 2
+    100056: pCylinder76 3
+    100058: pCylinder77
+    100060: pCylinder77 1
+    100062: pCylinder77 2
+    100064: pCylinder77 3
+    100066: pCylinder78
+    100068: pCylinder78 1
+    100070: pCylinder78 2
+    100072: pCylinder78 3
+    100074: pCylinder80
+    100076: pCylinder80 1
+    100078: pCylinder80 2
+    100080: pCylinder80 3
+    100082: "pCylinder\xE7low"
+    100084: "pCylinder\xE7low 1"
+    100086: pHelix1
+    100088: pHelix1 1
+    100090: pHelix1 2
+    100092: pHelix1 3
+    100094: PolySurface33479_00001____
+    100096: PolySurface33479_00001____ 1
+    100098: PolySurface33479_00001____ 2
+    100100: PolySurface33479_00001____ 3
+    100102: PolySurface33479_00001____4
+    100104: PolySurface33479_00001____4 1
+    100106: PolySurface33479_00001____4 2
+    100108: PolySurface33479_00001____4 3
+    100110: PolySurface33479_00001____5
+    100112: PolySurface33479_00001____5 1
+    100114: PolySurface33479_00001____5 2
+    100116: PolySurface33479_00001____5 3
+    100118: PolySurface33479_00001____6
+    100120: PolySurface33479_00001____6 1
+    100122: PolySurface33479_00001____6 2
+    100124: PolySurface33479_00001____6 3
+    100126: PolySurface33479_00001____7
+    100128: PolySurface33479_00001____7 1
+    100130: PolySurface33479_00001____8
+    100132: PolySurface33479_00001____9
+    100134: pPipe3
+    100136: pPipe3 1
+    100138: pPipe3 2
+    100140: pPipe3 3
+    100142: pSphere1
+    100144: pSphere1 1
+    100146: pSphere1 2
+    100148: pSphere1 3
+    100150: pTorus17
+    100152: pTorus17 1
+    100154: pTorus17 2
+    100156: pTorus17 3
+    100158: R_B_Tire
+    100160: R_B_Tire_
+    100162: R_F_Tire
+    100164: R_F_Tire_
+    100166: ressort
+    100168: ressort 1
+    100170: ressort 2
+    100172: ressort 3
+    100174: //RootNode
+    100176: whell_Right_top
+    100178: whell_Right_top 1
+    100180: whell_Right_top 2
+    100182: whell_Right_top 3
+    400000: Animation
+    400002: Car 1
+    400004: Car1
+    400006: DIsc
+    400008: Disc
+    400010: Disc 1
+    400012: Disc 2
+    400014: etoile
+    400016: etoile 1
+    400018: group84911194
+    400020: group84911194 1
+    400022: group84911195
+    400024: group84911195 1
+    400026: L_B_Tire
+    400028: L_B_Tire_
+    400030: L_F_Tire
+    400032: L_F_Tire_
+    400034: pCylinder74
+    400036: pCylinder74 1
+    400038: pCylinder74 2
+    400040: pCylinder74 3
+    400042: pCylinder75
+    400044: pCylinder75 1
+    400046: pCylinder75 2
+    400048: pCylinder75 3
+    400050: pCylinder76
+    400052: pCylinder76 1
+    400054: pCylinder76 2
+    400056: pCylinder76 3
+    400058: pCylinder77
+    400060: pCylinder77 1
+    400062: pCylinder77 2
+    400064: pCylinder77 3
+    400066: pCylinder78
+    400068: pCylinder78 1
+    400070: pCylinder78 2
+    400072: pCylinder78 3
+    400074: pCylinder80
+    400076: pCylinder80 1
+    400078: pCylinder80 2
+    400080: pCylinder80 3
+    400082: "pCylinder\xE7low"
+    400084: "pCylinder\xE7low 1"
+    400086: pHelix1
+    400088: pHelix1 1
+    400090: pHelix1 2
+    400092: pHelix1 3
+    400094: PolySurface33479_00001____
+    400096: PolySurface33479_00001____ 1
+    400098: PolySurface33479_00001____ 2
+    400100: PolySurface33479_00001____ 3
+    400102: PolySurface33479_00001____4
+    400104: PolySurface33479_00001____4 1
+    400106: PolySurface33479_00001____4 2
+    400108: PolySurface33479_00001____4 3
+    400110: PolySurface33479_00001____5
+    400112: PolySurface33479_00001____5 1
+    400114: PolySurface33479_00001____5 2
+    400116: PolySurface33479_00001____5 3
+    400118: PolySurface33479_00001____6
+    400120: PolySurface33479_00001____6 1
+    400122: PolySurface33479_00001____6 2
+    400124: PolySurface33479_00001____6 3
+    400126: PolySurface33479_00001____7
+    400128: PolySurface33479_00001____7 1
+    400130: PolySurface33479_00001____8
+    400132: PolySurface33479_00001____9
+    400134: pPipe3
+    400136: pPipe3 1
+    400138: pPipe3 2
+    400140: pPipe3 3
+    400142: pSphere1
+    400144: pSphere1 1
+    400146: pSphere1 2
+    400148: pSphere1 3
+    400150: pTorus17
+    400152: pTorus17 1
+    400154: pTorus17 2
+    400156: pTorus17 3
+    400158: R_B_Tire
+    400160: R_B_Tire_
+    400162: R_F_Tire
+    400164: R_F_Tire_
+    400166: ressort
+    400168: ressort 1
+    400170: ressort 2
+    400172: ressort 3
+    400174: //RootNode
+    400176: whell_Right_top
+    400178: whell_Right_top 1
+    400180: whell_Right_top 2
+    400182: whell_Right_top 3
+    2100000: Wheels3
+    2100002: vise_for_machine3
+    2300000: etoile
+    2300002: etoile 1
+    2300004: pCylinder74
+    2300006: pCylinder74 1
+    2300008: pCylinder74 2
+    2300010: pCylinder74 3
+    2300012: pCylinder75
+    2300014: pCylinder75 1
+    2300016: pCylinder75 2
+    2300018: pCylinder75 3
+    2300020: pCylinder76
+    2300022: pCylinder76 1
+    2300024: pCylinder76 2
+    2300026: pCylinder76 3
+    2300028: pCylinder77
+    2300030: pCylinder77 1
+    2300032: pCylinder77 2
+    2300034: pCylinder77 3
+    2300036: pCylinder78
+    2300038: pCylinder78 1
+    2300040: pCylinder78 2
+    2300042: pCylinder78 3
+    2300044: pCylinder80
+    2300046: pCylinder80 1
+    2300048: pCylinder80 2
+    2300050: pCylinder80 3
+    2300052: "pCylinder\xE7low"
+    2300054: "pCylinder\xE7low 1"
+    2300056: pHelix1
+    2300058: pHelix1 1
+    2300060: pHelix1 2
+    2300062: pHelix1 3
+    2300064: PolySurface33479_00001____
+    2300066: PolySurface33479_00001____ 1
+    2300068: PolySurface33479_00001____ 2
+    2300070: PolySurface33479_00001____ 3
+    2300072: PolySurface33479_00001____4
+    2300074: PolySurface33479_00001____4 1
+    2300076: PolySurface33479_00001____4 2
+    2300078: PolySurface33479_00001____4 3
+    2300080: PolySurface33479_00001____5
+    2300082: PolySurface33479_00001____5 1
+    2300084: PolySurface33479_00001____5 2
+    2300086: PolySurface33479_00001____5 3
+    2300088: PolySurface33479_00001____6
+    2300090: PolySurface33479_00001____6 1
+    2300092: PolySurface33479_00001____6 2
+    2300094: PolySurface33479_00001____6 3
+    2300096: PolySurface33479_00001____7
+    2300098: PolySurface33479_00001____7 1
+    2300100: PolySurface33479_00001____8
+    2300102: PolySurface33479_00001____9
+    2300104: pPipe3
+    2300106: pPipe3 1
+    2300108: pPipe3 2
+    2300110: pPipe3 3
+    2300112: pSphere1
+    2300114: pSphere1 1
+    2300116: pSphere1 2
+    2300118: pSphere1 3
+    2300120: pTorus17
+    2300122: pTorus17 1
+    2300124: pTorus17 2
+    2300126: pTorus17 3
+    3300000: etoile
+    3300002: etoile 1
+    3300004: pCylinder74
+    3300006: pCylinder74 1
+    3300008: pCylinder74 2
+    3300010: pCylinder74 3
+    3300012: pCylinder75
+    3300014: pCylinder75 1
+    3300016: pCylinder75 2
+    3300018: pCylinder75 3
+    3300020: pCylinder76
+    3300022: pCylinder76 1
+    3300024: pCylinder76 2
+    3300026: pCylinder76 3
+    3300028: pCylinder77
+    3300030: pCylinder77 1
+    3300032: pCylinder77 2
+    3300034: pCylinder77 3
+    3300036: pCylinder78
+    3300038: pCylinder78 1
+    3300040: pCylinder78 2
+    3300042: pCylinder78 3
+    3300044: pCylinder80
+    3300046: pCylinder80 1
+    3300048: pCylinder80 2
+    3300050: pCylinder80 3
+    3300052: "pCylinder\xE7low"
+    3300054: "pCylinder\xE7low 1"
+    3300056: pHelix1
+    3300058: pHelix1 1
+    3300060: pHelix1 2
+    3300062: pHelix1 3
+    3300064: PolySurface33479_00001____
+    3300066: PolySurface33479_00001____ 1
+    3300068: PolySurface33479_00001____ 2
+    3300070: PolySurface33479_00001____ 3
+    3300072: PolySurface33479_00001____4
+    3300074: PolySurface33479_00001____4 1
+    3300076: PolySurface33479_00001____4 2
+    3300078: PolySurface33479_00001____4 3
+    3300080: PolySurface33479_00001____5
+    3300082: PolySurface33479_00001____5 1
+    3300084: PolySurface33479_00001____5 2
+    3300086: PolySurface33479_00001____5 3
+    3300088: PolySurface33479_00001____6
+    3300090: PolySurface33479_00001____6 1
+    3300092: PolySurface33479_00001____6 2
+    3300094: PolySurface33479_00001____6 3
+    3300096: PolySurface33479_00001____7
+    3300098: PolySurface33479_00001____7 1
+    3300100: PolySurface33479_00001____8
+    3300102: PolySurface33479_00001____9
+    3300104: pPipe3
+    3300106: pPipe3 1
+    3300108: pPipe3 2
+    3300110: pPipe3 3
+    3300112: pSphere1
+    3300114: pSphere1 1
+    3300116: pSphere1 2
+    3300118: pSphere1 3
+    3300120: pTorus17
+    3300122: pTorus17 1
+    3300124: pTorus17 2
+    3300126: pTorus17 3
+    4300000: pCylinder80
+    4300002: pHelix1
+    4300004: pCylinder78
+    4300006: pCylinder77
+    4300008: pCylinder76
+    4300010: pCylinder75
+    4300012: pCylinder74
+    4300014: PolySurface33479_00001____8
+    4300016: pSphere1
+    4300018: "pCylinder\xE7low"
+    4300020: pPipe3
+    4300022: pTorus17
+    4300024: PolySurface33479_00001____4
+    4300026: PolySurface33479_00001____
+    4300028: PolySurface33479_00001____5
+    4300030: PolySurface33479_00001____6
+    4300032: pCylinder80
+    4300034: pHelix1
+    4300036: pCylinder78
+    4300038: pCylinder77
+    4300040: pCylinder76
+    4300042: pCylinder75
+    4300044: pCylinder74
+    4300046: PolySurface33479_00001____7
+    4300048: pSphere1
+    4300050: "pCylinder\xE7low"
+    4300052: pPipe3
+    4300054: pTorus17
+    4300056: PolySurface33479_00001____4
+    4300058: PolySurface33479_00001____
+    4300060: PolySurface33479_00001____5
+    4300062: PolySurface33479_00001____6
+    4300064: pCylinder80
+    4300066: pHelix1
+    4300068: pCylinder78
+    4300070: pCylinder77
+    4300072: pCylinder76
+    4300074: pCylinder75
+    4300076: pCylinder74
+    4300078: pSphere1
+    4300080: PolySurface33479_00001____9
+    4300082: pPipe3
+    4300084: etoile
+    4300086: pTorus17
+    4300088: PolySurface33479_00001____4
+    4300090: PolySurface33479_00001____
+    4300092: PolySurface33479_00001____5
+    4300094: PolySurface33479_00001____6
+    4300096: pCylinder80
+    4300098: pHelix1
+    4300100: pCylinder78
+    4300102: pCylinder77
+    4300104: pCylinder76
+    4300106: pCylinder75
+    4300108: pCylinder74
+    4300110: PolySurface33479_00001____7
+    4300112: pSphere1
+    4300114: pTorus17
+    4300116: etoile
+    4300118: pPipe3
+    4300120: PolySurface33479_00001____4
+    4300122: PolySurface33479_00001____
+    4300124: PolySurface33479_00001____5
+    4300126: PolySurface33479_00001____6
+    7400000: Wheels_sheckedcar
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheels3
+    second: {fileID: 2100000, guid: 3bcffbdcb02ff7d4993a575d2521b242, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vise_for_machine3
+    second: {fileID: 2100000, guid: 0e82eb829a825b245a4ad022451673d2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Wheels_sheckedcar
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
