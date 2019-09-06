@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 2ba271a1ac374be4e82f6e2958430eb3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Animation
+    100002: B_Suspension
+    100004: Base
+    100006: Cannon
+    100008: Car 1
+    100010: Car1
+    100012: Car_body_grp
+    100014: Chair
+    100016: Chair 1
+    100018: F_Suspension
+    100020: Fire
+    100022: Glass
+    100024: group84911182
+    100026: L_Hand_gun
+    100028: locator15_Righthand
+    100030: locator17
+    100032: Locator_for_small_carac
+    100034: locator_Lefthand
+    100036: Machine
+    100038: //RootNode
+    100040: Metal_for_cylinder
+    100042: Metal_for_cylinder 1
+    100044: Metal_for_cylinder2
+    100046: Metal_for_cylinder3
+    100048: metal_forchair
+    100050: metal_forchair 1
+    100052: metal_forchair 2
+    100054: metal_forchair2
+    100056: pCube10
+    100058: pCylinder11
+    100060: pCylinder14
+    100062: pCylinder9
+    100064: pCylinder90
+    100066: pCylinder91
+    100068: pCylinder92
+    100070: pCylinder93
+    100072: polySurface2
+    100074: polySurface3
+    100076: polySurface33454
+    100078: polySurface33454 1
+    100080: polySurface33457
+    100082: polySurface33457 1
+    100084: polySurface33459
+    100086: polySurface33508
+    100088: polySurface33511
+    100090: polySurface33512
+    100092: pSphere2
+    100094: pSphere3
+    100096: pSphere4
+    100098: R_Hand_gun
+    100100: undermaster1
+    100102: Upper
+    100104: Vise_machine_h_
+    100106: Vise_machine_h_1
+    400000: Animation
+    400002: B_Suspension
+    400004: Base
+    400006: Cannon
+    400008: Car 1
+    400010: Car1
+    400012: Car_body_grp
+    400014: Chair
+    400016: Chair 1
+    400018: F_Suspension
+    400020: Fire
+    400022: Glass
+    400024: group84911182
+    400026: L_Hand_gun
+    400028: locator15_Righthand
+    400030: locator17
+    400032: Locator_for_small_carac
+    400034: locator_Lefthand
+    400036: Machine
+    400038: //RootNode
+    400040: Metal_for_cylinder
+    400042: Metal_for_cylinder 1
+    400044: Metal_for_cylinder2
+    400046: Metal_for_cylinder3
+    400048: metal_forchair
+    400050: metal_forchair 1
+    400052: metal_forchair 2
+    400054: metal_forchair2
+    400056: pCube10
+    400058: pCylinder11
+    400060: pCylinder14
+    400062: pCylinder9
+    400064: pCylinder90
+    400066: pCylinder91
+    400068: pCylinder92
+    400070: pCylinder93
+    400072: polySurface2
+    400074: polySurface3
+    400076: polySurface33454
+    400078: polySurface33454 1
+    400080: polySurface33457
+    400082: polySurface33457 1
+    400084: polySurface33459
+    400086: polySurface33508
+    400088: polySurface33511
+    400090: polySurface33512
+    400092: pSphere2
+    400094: pSphere3
+    400096: pSphere4
+    400098: R_Hand_gun
+    400100: undermaster1
+    400102: Upper
+    400104: Vise_machine_h_
+    400106: Vise_machine_h_1
+    2100000: Machine57
+    2100002: vise2
+    2100004: vise_for_machine2
+    2100006: Fireandplastic4
+    2100008: lambert1
+    2100010: Plastiqueforglass
+    2100012: Machine60
+    2300000: Chair 1
+    2300002: Metal_for_cylinder
+    2300004: Metal_for_cylinder 1
+    2300006: metal_forchair 1
+    2300008: metal_forchair 2
+    2300010: pCube10
+    2300012: pCylinder11
+    2300014: pCylinder14
+    2300016: pCylinder90
+    2300018: pCylinder91
+    2300020: pCylinder92
+    2300022: pCylinder93
+    2300024: polySurface2
+    2300026: polySurface3
+    2300028: polySurface33454
+    2300030: polySurface33454 1
+    2300032: polySurface33457
+    2300034: polySurface33457 1
+    2300036: polySurface33459
+    2300038: polySurface33508
+    2300040: polySurface33511
+    2300042: polySurface33512
+    2300044: pSphere2
+    2300046: pSphere3
+    2300048: pSphere4
+    3300000: Chair 1
+    3300002: Metal_for_cylinder
+    3300004: Metal_for_cylinder 1
+    3300006: metal_forchair 1
+    3300008: metal_forchair 2
+    3300010: pCube10
+    3300012: pCylinder11
+    3300014: pCylinder14
+    3300016: pCylinder90
+    3300018: pCylinder91
+    3300020: pCylinder92
+    3300022: pCylinder93
+    3300024: polySurface2
+    3300026: polySurface3
+    3300028: polySurface33454
+    3300030: polySurface33454 1
+    3300032: polySurface33457
+    3300034: polySurface33457 1
+    3300036: polySurface33459
+    3300038: polySurface33508
+    3300040: polySurface33511
+    3300042: polySurface33512
+    3300044: pSphere2
+    3300046: pSphere3
+    3300048: pSphere4
+    4300000: pCube10
+    4300002: pCylinder90
+    4300004: pCylinder91
+    4300006: pCylinder92
+    4300008: pCylinder93
+    4300010: Chair
+    4300012: pCylinder11
+    4300014: metal_forchair
+    4300016: metal_forchair
+    4300018: polySurface33454
+    4300020: polySurface33457
+    4300022: polySurface33454
+    4300024: polySurface33457
+    4300026: polySurface33511
+    4300028: polySurface33508
+    4300030: pSphere2
+    4300032: L_Hand_gun
+    4300034: R_Hand_gun
+    4300036: polySurface3
+    4300038: polySurface2
+    4300040: Metal_for_cylinder
+    4300042: Metal_for_cylinder
+    4300044: polySurface33459
+    4300046: polySurface33512
+    4300048: pSphere3
+    4300050: pSphere4
+    4300052: pCylinder14
+    7400000: fire_backtoplace
+    9500000: //RootNode
+    13700000: L_Hand_gun
+    13700002: R_Hand_gun
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
