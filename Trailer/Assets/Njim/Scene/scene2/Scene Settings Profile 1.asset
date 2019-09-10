@@ -40,17 +40,17 @@ MonoBehaviour:
     max: 4
   cascadeShadowSplit0:
     m_OverrideState: 1
-    m_Value: 0.05
+    m_Value: 1
     min: 0
     max: 1
   cascadeShadowSplit1:
     m_OverrideState: 1
-    m_Value: 0.15
+    m_Value: 0.885
     min: 0
     max: 1
   cascadeShadowSplit2:
     m_OverrideState: 1
-    m_Value: 0.3
+    m_Value: 0.24
     min: 0
     max: 1
   cascadeShadowBorder0:
@@ -84,7 +84,7 @@ MonoBehaviour:
   active: 1
   rotation:
     m_OverrideState: 1
-    m_Value: 205
+    m_Value: 198
     min: 0
     max: 360
   skyIntensityMode:
@@ -92,10 +92,10 @@ MonoBehaviour:
     m_Value: 0
   exposure:
     m_OverrideState: 1
-    m_Value: -0.72
+    m_Value: -0.92
   multiplier:
     m_OverrideState: 1
-    m_Value: 1.1
+    m_Value: 0.83
     min: 0
   upperHemisphereLuxValue:
     m_OverrideState: 1

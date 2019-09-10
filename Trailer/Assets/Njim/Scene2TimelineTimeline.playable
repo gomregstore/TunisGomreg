@@ -2572,14 +2572,14 @@ MonoBehaviour:
   m_Name: MovieRecorderSettings
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 4
+  take: 5
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
       m_Root: 5
       m_Leaf: C:/Users/Hakim/Videos
       m_ForceAssetFolder: 0
-    m_FileName: movietes1
+    m_FileName: movietes111
   outputFormat: 0
   videoBitRateMode: 2
   captureAlpha: 0
@@ -2590,7 +2590,7 @@ MonoBehaviour:
       m_OutputResolution:
         m_CustomWidth: 1024
         m_CustomHeight: 1024
-        imageHeight: 2160
+        imageHeight: 0
         maxSupportedHeight: 2160
         m_AspectRatio:
           m_CustomAspectX: 1

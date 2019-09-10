@@ -20,10 +20,11 @@ public class ProjectileMoveScript : MonoBehaviour {
 	private Rigidbody rb;
 
 	void Start () {	
+		//transform.parent = null;
 		rb = GetComponent <Rigidbody> ();
 
 		//used to create a radius for the accuracy and have a very unique randomness
-		if (accuracy != 100) {
+		/* if (accuracy != 100) {
 			accuracy = 1 - (accuracy / 100);
 
 			for (int i = 0; i < 2; i++) {
@@ -57,12 +58,12 @@ public class ProjectileMoveScript : MonoBehaviour {
 
 		if (shotSFX != null && GetComponent<AudioSource>()) {
 			GetComponent<AudioSource> ().PlayOneShot (shotSFX);
-		}
+		}*/
 	}
 
 	void FixedUpdate () {	
-		if (speed != 0 && rb != null)
-			rb.position += (transform.forward + offset)  * (speed * Time.deltaTime);
+		//if (speed != 0 && rb != null)
+			rb.velocity = (transform.forward + offset)  * (speed * Time.deltaTime);
 	}
 
 	void OnCollisionEnter (Collision co) {
@@ -84,15 +85,10 @@ public class ProjectileMoveScript : MonoBehaviour {
 				}
 			}
 		
-			speed = 0;
-			GetComponent<Rigidbody> ().isKinematic = true;
-
-			ContactPoint contact = co.contacts [0];
-			Quaternion rot = Quaternion.FromToRotation (Vector3.up, contact.normal);
-			Vector3 pos = contact.point;
+			
 
 			if (hitPrefab != null) {
-				var hitVFX = Instantiate (hitPrefab, pos, rot) as GameObject;
+				var hitVFX = Instantiate (hitPrefab, co.transform.position, co.transform.rotation) as GameObject;
 
 				var ps = hitVFX.GetComponent<ParticleSystem> ();
 				if (ps == null) {
